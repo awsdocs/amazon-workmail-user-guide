@@ -1,4 +1,4 @@
-## Amazon Workmail User Guide
+## Amazon WorkMail User Guide
 
 The open source version of the Amazon WorkMail User Guide. To submit feedback or requests for changes, submit an issue or make changes and submit a pull request.
 
