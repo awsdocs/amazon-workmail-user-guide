@@ -1,0 +1,86 @@
+# Amazon WorkMail User Guide
+
+-----
+*****Copyright &copy; 2018 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
+
+-----
+Amazon's trademarks and trade dress may not be used in 
+     connection with any product or service that is not Amazon's, 
+     in any manner that is likely to cause confusion among customers, 
+     or in any manner that disparages or discredits Amazon. All other 
+     trademarks not owned by Amazon are the property of their respective
+     owners, who may or may not be affiliated with, connected to, or 
+     sponsored by Amazon.
+
+-----
+## Contents
++ [What Is Amazon WorkMail?](what_is.md)
++ [Getting Started with Amazon WorkMail](getting_started.md)
+   + [Connect Microsoft Outlook to Your Amazon WorkMail Account](connect_mail_client.md)
+   + [Connect Your Mail App on macOS](connect_mac_mail.md)
+   + [Connect Your iOS Device](connect_ios_device.md)
+   + [Connect Your Android Device](connect_android_device.md)
+   + [Manually Connect Your Mobile Device](manually_connect_device.md)
+   + [Connect to Your IMAP Client Application](using_IMAP_client.md)
+   + [Log on to the Amazon WorkMail Web Application](using_web_application.md)
++ [Working with Email](email_overview.md)
+   + [Send an Email Message](create_send_email.md)
+   + [Send an Encrypted or Signed Email](send_encrypted_email.md)
+   + [Refresh the Email List](refresh_email_list.md)
+   + [Delete an Email Message](delete_email_message.md)
+   + [Move Email to Other Folders](move_email_message.md)
+   + [Copy or Move an Email Message](copy_move_email.md)
+   + [Search for an Email Message](search_email_message.md)
+   + [Add or Download Attachments](add_download_attachments.md)
+   + [Print an Email Message](print_email.md)
+   + [Share Your Inbox with Another User](share_your_inbox.md)
+   + [Send as an Alias](send_alias.md)
++ [Working with Folders](folders_overview.md)
+   + [Create a New Folder](create_folder.md)
+   + [Delete a Folder](delete_folder.md)
+   + [Empty the Deleted Items Folder](empty_deleted_items.md)
+   + [Mark Items as Read or Unread](mark_items_read_unread.md)
+   + [View the Size of a Folder](view_folder_size.md)
+   + [Share an Email Folder with Another User](share_email_folder.md)
+   + [Open a Shared Email Folder](shared_folder.md)
+   + [Open a Shared Inbox](open_shared_inbox.md)
+   + [Copy, Move, or Rename a Folder](copy_move_rename_folder.md)
+   + [View Folder Permissions](view_folder_permissions.md)
+   + [Change a Folder's Permissions](change_folder_permissions.md)
+   + [Stop Sharing a Folder](stop_sharing_folders.md)
++ [Working with Calendars](calendars_overview.md)
+   + [Change the Calendar View](change_calendar_view.md)
+   + [Create an Appointment](create_appointment.md)
+   + [Create a Meeting Request](create_meeting_request.md)
+   + [Edit a Meeting or Appointment](edit_meeting_appointment.md)
+   + [Move a Meeting or Appointment](move_meeting_appointment.md)
+   + [Delete a Meeting or Appointment](delete_meeting_appointment.md)
+   + [Cancel or Decline a Scheduled Meeting](cancel_decline_meeting.md)
+   + [Work with Multiple Calendars](multiple_calendars.md)
+   + [Print Calendar Items](print_calendar_items.md)
+   + [Share Your Calendar with Another User](share_your_calendar.md)
+   + [Open a Shared Calendar](share_calendar.md)
+   + [Change Calendar Settings](change_calendar_settings.md)
++ [Working with Contacts](contacts_overview.md)
+   + [Create a Contact](create_contact.md)
+   + [Edit a Contact](edit_contact.md)
+   + [Delete a Contact](delete_contact.md)
+   + [Copy or Move a Contact](copy_move_contact.md)
+   + [Create a Distribution List](create_distribution_list.md)
+   + [Print a Contact](print_contact.md)
+   + [Share Your Contacts with Another User](share_your_contacts.md)
+   + [Open Shared Contacts](open_shared_contacts.md)
++ [Working with Delegates](delegates_overview.md)
+   + [Send Email on Behalf of Someone Else](send_email_delegate.md)
+   + [Schedule a Meeting on Behalf of Someone Else](schedule_meeting_delegate.md)
++ [Working with Notifications](notifications.md)
++ [Changing Amazon WorkMail Web Application Default Settings](settings_overview.md)
++ [Working with Accessibility Features](accessibility.md)
+   + [Supported Screen Readers](supported-screenreaders.md)
+   + [Using Shortcut Keys with Amazon WorkMail](shortcut-keys.md)
+   + [Working with General and Email Settings](general-settings.md)
+   + [Using the Global Address Book](using-global-address-book.md)
+   + [Working with Email](working-with-email.md)
+   + [Working with Folders](working-folders.md)
++ [Troubleshooting the Amazon WorkMail Web Application](troubleshooting.md)
++ [Document History](DocumentHistory.md)
