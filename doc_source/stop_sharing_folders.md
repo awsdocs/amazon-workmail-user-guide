@@ -8,12 +8,8 @@ If you've shared a folder with another user, you can stop sharing it at any time
 
 1. In the navigation pane, open the context \(right\-click\) menu for the folder, and choose **Properties**\.
 
-1. In the **Properties** dialog box, choose the **Permissions** tab\.
+1. On the **User details** page, under **Permissions**, choose **Add or remove**\.
 
-1. Select the user or group to remove from the sharing list\.
+1. For **Permissions**, select the user or group to remove, and choose **< <**\.
 
-1. Choose **Remove**\.
-
-1. Repeat this for any other users or groups to stop sharing the folder with\.
-
-1. Choose **OK**\.
+1. Repeat as necessary, then choose **Save**\.

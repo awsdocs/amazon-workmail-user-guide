@@ -1,6 +1,6 @@
 # Send an Encrypted or Signed Email<a name="send_encrypted_email"></a>
 
-With S/MIME, you can send signed and/or encrypted emails inside and outside of your organization\. After you configure S/MIME in the email client settings, all emails your send are automatically signed\. Encryption options depend on different email clients and respective platforms\. Please see the following to learn how to configure S/MIME for a few common email clients\.
+With S/MIME, you can send signed or encrypted emails inside and outside of your organization\. After you configure S/MIME in the email client settings, all emails that you send are automatically signed\. Encryption options depend on different email clients and respective platforms\. 
 
 **Note**  
 The Amazon WorkMail web app client is not supported\.
@@ -51,36 +51,31 @@ The Amazon WorkMail web app client is not supported\.
 
 1. Open the Android Nine app and choose **Email Settings**, **Accounts**, select your account, and then choose **Security options**\.
 
-1. To enable encryption, choose **Encrypt ongoing emails**\. Under **Email encryption cert**, choose **Install**, select your certificate used for encrypting your email message, and choose **Allow**\.
+1. To enable encryption, choose **Encrypt ongoing emails**\. Under **Email encryption cert**, choose **Install**, select your certificate used for encrypting your email message, and then choose **Allow**\.
 **Note**  
-If you select **Email encryption cert**, when you send an email, the app loads and validates the user certificate from the Global Address List \(GAL\) or from a contact\. If the certificate is found for the recipient, the email is sent as encrypted\. Otherwise, an error is displayed and the email is not sent\. You must disable the **Email encryption cert** setting\. 
+If you allow **Email encryption cert**, when you send an email, the app loads and validates the user certificate from the Global Address List \(GAL\) or from a contact\. If the certificate is found for the recipient, the email is sent as encrypted\. Otherwise, an error is displayed and the email is not sent\. You must disable the **Email encryption cert** setting\. 
 
-1. To enable signing, choose **Sign all outgoing emails**\. Under **Email signing cert**, choose **Install**, select your certificate used for signing your email message, and choose **Allow**\.
+1. To enable signing, choose **Sign all outgoing emails**\. Under **Email signing cert**, choose **Install**, select your certificate used for signing your email message, and then choose **Allow**\.
 
 **To configure S/MIME in Outlook for Mac 2016**
 
-1. Install the certificate on Mac OS:
+1. Install the certificate on macOS:
 
    1. Get the certificate \(\*\.p12\) file from your administrator or third party provider, and save the file to a folder\.
 
    1. Double\-click the certificate file to open **Keychain Access** and approve to add the certificate to your keychain\.
 
-   1. In the list of certificates in your keychain, see the newly installed certificate appear\.
+   1. In the list of certificates in your keychain, view the newly installed certificate\.
 
-1. In Outlook for Mac, follow these steps:
+1. In Outlook for Mac, choose **Tools**, **Accounts**, select your account, and then choose **Advanced**, **Security**\.
 
-   1. Choose **Tools**, **Accounts**, your account, **Advanced**, and **Security**\.
+1. In **Digital signing** and **Encryption**, choose the newly installed certificate from the list and choose from the following options:
+   + To sign all outgoing messages by default, choose **Sign outgoing messages**\.
+   + To encrypt all outgoing messages by default, choose **Encrypt outgoing messages**\.
+   + To make sure that your signed message can be viewed by all recipients and mail applications, choose **Send digitally signed messages as clear text**\.
+   +  To enable recipients to send encrypted messages to you, choose **Include my certificates in signed messages**\.
 
-   1. In **Digital signing** and **Encryption**, choose the newly installed certificate from the drop\-down list and choose from the following options:
+1. Choose **OK**\.
 
-      + To sign all outgoing messages by default, choose **Sign outgoing messages**\.
-
-      + To encrypt all outgoing messages by default, choose **Encrypt outgoing messages**\.
-
-      + To make sure your signed message can be viewed by all recipients and mail applications, choose **Send digitally signed messages as clear text**\.
-
-      +  To enable recipients to send encrypted messages to you, choose **Include my certificates in signed messages**\.
-
-   1. Choose **OK** to close the dialog boxes\.
 **Note**  
-To send en encrypted email to the group, manually expand the group\.
+To send an encrypted email to the group, manually expand the group\.

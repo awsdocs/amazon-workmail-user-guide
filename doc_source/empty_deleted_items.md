@@ -6,4 +6,4 @@ If your inbox is full and you're out of space, you can empty the Deleted Items f
 
 1. In the Amazon WorkMail web application, on the shortcut bar, choose the mail icon\.
 
-1. In the navigation pane, open the context \(right\-click\) menu for the **Deleted Items** folder, and then choose **Empty folder**\.
+1. In the navigation pane, open the context \(right\-click\) menu for the **Deleted Items** folder, and choose **Empty folder**\.

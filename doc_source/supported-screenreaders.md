@@ -1,11 +1,8 @@
 # Supported Screen Readers<a name="supported-screenreaders"></a>
 
 You can use the following browser\-based screen readers with Amazon WorkMail:
-
 + Firefox—NVDA
-
 + Internet Explorer—JAWS
-
 + Safari—VoiceOver
 
 **Note**  

@@ -10,4 +10,4 @@ You can edit your contacts to update their information\.
 
 1. In the contents pane, open the contact to edit\.
 
-1. Update the contact's information as appropriate, and then choose **Save**\.
+1. Update the contact information as appropriate, and choose **Save**\.

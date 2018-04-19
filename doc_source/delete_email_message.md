@@ -7,12 +7,9 @@ When you no longer need an email message, you can delete it\. Deleting unwanted 
 1. In the Amazon WorkMail web application, choose the mail icon on the shortcut bar\.
 
 1. Do one of the following:
-
    + In the contents pane, select a message and press the **Delete** key\.
-
    + In the contents pane, open the message and choose **Delete**\.
-
-   + In the message tab, choose **Delete**\.
+   + In the **Message** tab, choose **Delete**\.
 
 If you mistakenly delete a message, calendar item, or contact, you can restore it\. All deleted email, calendar items, and contacts are stored in the Deleted Items folder in the application\.
 
@@ -23,8 +20,8 @@ You can only restore items that are still in the Deleted Items folder\. If you'v
 
 1. In the Amazon WorkMail web application, choose the mail icon on the shortcut bar\.
 
-1. In the **Deleted Items** folder, select the message to restore, and then choose **Copy/Move**\.
+1. In the **Deleted Items** folder, select the message to restore and choose **Copy/Move**\.
 **Tip**  
 You can also choose the plus sign \(\+\) on the tab bar\.
 
-1. In the **Copy/move messages** dialog box, select the destination folder, and choose **Move**\.
+1. In the **Copy/move messages** dialog box, select the destination folder and choose **Move**\.

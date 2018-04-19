@@ -1,18 +1,15 @@
 # Log on to the Amazon WorkMail Web Application<a name="using_web_application"></a>
 
 Amazon WorkMail has a web\-based application that you can use to access your Amazon WorkMail account from a web browser\. The Amazon WorkMail web application includes integrated applications such as mail, calendar, and contacts\. To get started with the Amazon WorkMail web application, you need a broadband internet connection and the latest version of one of the following web browsers:
-
 + Google Chrome
-
 + Mozilla Firefox
-
 + Apple Safari
-
 + Microsoft Edge
-
 + Microsoft Internet Explorer
 
-Your Amazon WorkMail system administrator provides you with your initial login credentials, which consist of a username and a password\. You also need your unique Amazon WorkMail web application URL, which contains an alias—the unique name chosen for your mail domain when your organization was added\.
+Your Amazon WorkMail system administrator provides you with your initial login credentials, which consist of a username and a password\. To recover a lost or forgotten password, contact your administrator\.
+
+You also need your unique Amazon WorkMail web application URL, which contains an alias—the unique name chosen for your mail domain when your organization was added\.
 
 **To locate your Amazon WorkMail web application URL**
 

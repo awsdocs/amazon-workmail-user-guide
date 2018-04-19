@@ -10,6 +10,6 @@ You can create folders to organize your email, contacts, and calendar items\.
 
 1. In the **Create New Folder** dialog box, for **Name**, enter the name of the new folder\.
 
-1. For **Folder contains**, select the type of contents that the folder will contain\.
+1. For **Folder contains**, select the type of contents for the folder to contain\.
 
-1. For **Select where to place the folder**, select the location at which to create the new folder, and then choose **OK**\.
+1. For **Select where to place the folder**, select the target location and choose **OK**\.

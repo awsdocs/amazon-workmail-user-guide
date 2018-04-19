@@ -8,15 +8,11 @@ You can create an appointment and set a reminder that automatically reminds you 
 
 1. On the menu bar, choose **New appointment**\.
 
-1. For **Subject**, enter a subject for the appointment\.
-
-1. For **Start** and **End**, specify the start and end times for the appointment\.
-
-1. \(optional\) For **Location**, specify a location\.
-
-1. Specify a start and end time for the appointment\.
-
-1. \(optional\) For **Reminder**, set a reminder\.
+1. Enter the following:
+   + For **Subject**, enter a subject for the appointment\.
+   + For **Start** and **End**, specify the start and end times for the appointment\.
+   + \(Optional\) For **Location**, specify a location\.
+   + \(Optional\) For **Reminder**, set a reminder\.
 
 1. Choose **Save and close**\.
 **Tip**  

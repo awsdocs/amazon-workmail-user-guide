@@ -6,6 +6,6 @@ You can view a folder's size to see how much storage space it takes up\.
 
 1. In the Amazon WorkMail web application, on the shortcut bar, choose the mail icon\.
 
-1. In the navigation pane, open the context \(right\-click\) menu for a mail folder, and then choose **Properties**\.
+1. In the navigation pane, open the context \(right\-click\) menu for a mail folder, and choose **Properties**\.
 **Tip**  
 To see more details about the storage size, including the storage sizes of any subfolders, choose **Details**\.

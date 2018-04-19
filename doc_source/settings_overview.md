@@ -10,7 +10,7 @@ You can change many of the default settings for the Amazon WorkMail web applicat
 
 1. Press the F5 key to refresh and activate the new settings\.
 
-
+**Topics**
 + [General Tab](#general_tab)
 + [Email Tab](#email_tab)
 + [Email Rules Tab](#email_filters_tab)

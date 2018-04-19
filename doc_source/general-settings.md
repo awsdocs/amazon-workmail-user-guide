@@ -2,14 +2,11 @@
 
 You can modify the default and email settings in the Amazon WorkMail web application\.
 
-## General Settings<a name="w3ab2c29c11b5"></a>
+## General Settings<a name="w3ab2c26c11b5"></a>
 
 The general settings have the following defaults, which can be modified\.
-
 + **Date format**—**English \(US\)**
-
 + **Address Book**—**Global Address List**
-
 + **Keyboard shortcuts**—Off
 
 **To change the default account settings**
@@ -40,22 +37,15 @@ The general settings have the following defaults, which can be modified\.
 **Note**  
 Restart Amazon WorkMail to have the date format and keyboard shortcut changes take effect\.
 
-## Email Settings<a name="w3ab2c29c11b7"></a>
+## Email Settings<a name="w3ab2c26c11b7"></a>
 
 Email settings have the following defaults, which can be modified\.
-
 + **Display preview pane**—Right
-
 + **Close email when responding**—On
-
 + **Format**—HTML
-
 + **Default font**—Narrow Sans Serif
-
 + **Default font size**—Normal
-
 + **Always request a read receipt**—Off
-
 + **Incoming mail**—**Ask me before sending a response**
 
 **To change email settings**
@@ -71,11 +61,8 @@ Email settings have the following defaults, which can be modified\.
 1. Press **Tab** to choose whether to **Close email when responding**, using the **Spacebar** to select or clear the field\.
 
 1. Press **Tab** to move to **Compose email**\. 
-
    + For **Format**, use **Alt\+Down** and the **Up/Down** arrows to toggle between **HTML** and **Plain Text**\. Press **Enter** to confirm the selection\.
-
    + For **Default font**, use **Alt\+Down** and the **Up/Down** arrows to scroll through the list of available fonts\. Press **Enter** to confirm the selection\.
-
    + For **Default font size**, use **Alt\+Down** and the **Up/Down** arrows to choose a font display size\. Press **Enter** to confirm the selection\.
 
 1. Press **Tab** to move to the **Always request a read receipt** checkbox\. Press **Spacebar** to select or clear the box\.

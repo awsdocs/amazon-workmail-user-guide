@@ -8,22 +8,14 @@ You can create a meeting request that includes attendees and resources, and set 
 
 1. On the menu bar, choose **New meeting request**\.
 
-1. To add one or more attendees, type their names in the **To** field\.
+1. To add one or more attendees, type their names in the **To** field\. Amazon WorkMail suggests names from the address book\. You can remove suggestions from this list by selecting a name and then pressing **Delete**\. To add users from the address book or to add them to the **Required**, **Optional**, or **Resource** fields, choose **To**, and select one or more users from the address book and add them to the appropriate fields\.
 
-   Amazon WorkMail suggests names from the address book\. You can remove suggestions from this list by selecting a name and then pressing **Delete**\.
+1. Enter the following:
+   + For **Subject**, enter a subject for the meeting\.
+   + For **Start** and **End**, specify the start and end times for the meeting\.
+   + For **Location**, specify a location\.
+   + \(Optional\) For **Reminder**, set a reminder\.
 
-1. To add users from the address book or to add them to the **Required**, **Optional**, or **Resource** fields, choose **To**, and select one or more users from the address book and add them to the **Required**, **Optional**, or **Resource** fields as appropriate\.
+1. In the lower portion of the meeting invitation, you can add information about the meeting, such as an agenda\. To add an attachment to the meeting invitation, choose **Attach**\.
 
-1. For **Subject**, enter a subject for the meeting\.
-
-1. For **Start** and **End**, specify the start and end times for the meeting\.
-
-1. For **Location**, specify a location\.
-
-1. \(optional\) For **Reminder**, set a reminder\.
-
-1. In the lower portion of the meeting invitation, you can add information about the meeting, such as an agenda\.
-
-1. To add an attachment to the meeting invitation, choose **Attach**\.
-
-1. When you're ready to send the meeting invitation, choose **Send invitation**\.
+1. Choose **Send invitation**\.

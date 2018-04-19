@@ -10,4 +10,4 @@ When you no longer need contacts, you can delete them\.
 
 1. In the contents pane, open the context \(right\-click\) menu for the contact and choose **Delete**\.
 **Note**  
-If you need to restore a contact you deleted by mistake, you can drag the contact from the **Deleted Items** folder back to the **Contacts** folder\.
+To restore a contact that you deleted by mistake, drag the contact from the **Deleted Items** folder back to the **Contacts** folder\.

@@ -2,7 +2,7 @@
 
 You can add, edit, delete, copy, and print contacts, as well as share contacts with other users\.
 
-
+**Topics**
 + [Create a Contact](create_contact.md)
 + [Edit a Contact](edit_contact.md)
 + [Delete a Contact](delete_contact.md)

@@ -9,9 +9,7 @@ You can create and send email to one or more recipients, include attachments, se
 1. In the Amazon WorkMail web application, press **Tab** until the screen reader reads *Create new item, button list item*\. Press **Enter**\.
 
 1. The message opens with the cursor in the **To** field\. Add a contact using one of the following methods:
-
    + **Add a contact from the Address Book**\. Hold down **Shift\+Tab** to highlight the **To** field, then press **Enter**\. Start typing a contact's name into the field\. A list of suggested matching names is provided\. Use the **Up/Down** arrows to navigate through the list\. Press **Enter** to select a contact\. To add multiple contacts, continue selecting names; the separator is added automatically\.
-
    + **Search for the contact**\. You can search for a contact using the [Using the Global Address Book](using-global-address-book.md)\.
 **Note**  
 If a recipient's name is ambiguous or has multiple matches, the screen reader reads *Check ambiguous names, dialog*\. Select the correct recipient from the list provided\. 

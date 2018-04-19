@@ -20,6 +20,6 @@ You can set permissions on your calendar and share it with other users\.
 
    The shared calendar is now visible in the folder navigation pane\.
 **Note**  
-Your opened folders are stored in your Amazon WorkMail web application profile, so the next time you log in to the Amazon WorkMail web application, the opened folders are still displayed\.  
+Your opened folders are stored in your Amazon WorkMail web application profile\. The next time you log in to the Amazon WorkMail web application, the opened folders are still displayed\.  
 If you receive a message saying "`You have insufficient privileges to open this folder.`", contact the owner of the folder and ask them to grant you access\.  
 To change folder permissions, in the navigation pane, open the context \(right\-click\) menu for the folder and choose **Properties**, **Permissions**\.

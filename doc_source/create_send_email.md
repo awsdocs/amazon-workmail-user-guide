@@ -29,3 +29,16 @@ The following attachment types aren't supported:
 1. To save the message as a draft in the **Drafts** folder, choose **Save**\.
 
 1. Enter your text in the lower half of the contents pane, and choose **Send**\.
+
+If your IT administrator has enabled you to use Amazon WorkDocs, you can add files from Amazon WorkDocs to messages and send them to other recipients\.
+
+**To attach a file from Amazon WorkDocs**
+
+1. In the Amazon WorkMail web application, choose the new mail icon **\+** on the shortcut bar\.
+
+1. Choose **Attach** and browse to the **Amazon WorkDocs** folder\.
+
+1. Select the files to attach and choose **Attach Files**\. 
+
+**Note**  
+The total size of the attached files can’t exceed 25 MB\.

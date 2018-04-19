@@ -15,5 +15,8 @@ You can also choose the plus sign \(\+\) on the tab bar\.
 1. For **From**, enter the name of the person for whom you are sending email\.
 
 1. In the contents pane, type your message and choose **Send**\.
+
+The mailbox owner appears in the **From:** header, and you appear in the **Sender:** header\.
+
 **Note**  
-If you have not been granted delegation permissions for the person you specified in the **From** field, you will receive an email message in your own inbox that indicates that you don't have the required permissions\.
+If you have not been granted delegation permissions for the person you specified in the **From** field, you receive an email message in your own inbox indicating that you don't have the required permissions\.
