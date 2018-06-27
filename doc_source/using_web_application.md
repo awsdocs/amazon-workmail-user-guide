@@ -1,13 +1,13 @@
 # Log on to the Amazon WorkMail Web Application<a name="using_web_application"></a>
 
-Amazon WorkMail has a web\-based application that you can use to access your Amazon WorkMail account from a web browser\. The Amazon WorkMail web application includes integrated applications such as mail, calendar, and contacts\. To get started with the Amazon WorkMail web application, you need a broadband internet connection and the latest version of one of the following web browsers:
+Amazon WorkMail has a web\-based application that you can use to access your Amazon WorkMail account from a web browser\. The Amazon WorkMail web application includes integrated applications, such as Mail, Calendar, and Contacts\. To get started with the Amazon WorkMail web application, you need a broadband internet connection and the latest version of one of the following web browsers:
 + Google Chrome
 + Mozilla Firefox
-+ Apple Safari
++ Safari
 + Microsoft Edge
-+ Microsoft Internet Explorer
++ Internet Explorer
 
-Your Amazon WorkMail system administrator provides you with your initial login credentials, which consist of a username and a password\. To recover a lost or forgotten password, contact your administrator\.
+Your Amazon WorkMail system administrator provides you with your initial login credentials, which consist of a user name and a password\. To recover a lost or forgotten password, contact your administrator\.
 
 You also need your unique Amazon WorkMail web application URL, which contains an alias—the unique name chosen for your mail domain when your organization was added\.
 
@@ -23,17 +23,17 @@ The **Web application** URL is in the **General settings** tab and looks like th
 
 1. In the address bar of your browser, type or paste the web application URL\.
 
-1. On the Amazon WorkMail web application login screen, enter your username and password, and then choose **Sign In**\.
+1. On the Amazon WorkMail web application login screen, type your user name and password, and then choose **Sign In**\.
 
-1. After you log in to the Amazon WorkMail web application, you are ready to work\.
+1. Log in to the Amazon WorkMail web application, and you are ready to work\.
 
-The Amazon WorkMail web application is made up of the following sections:
+The Amazon WorkMail web application is made up of the following areas:
 
 ![\[Main areas in the Amazon WorkMail web application\]](http://docs.aws.amazon.com/workmail/latest/userguide/images/workmail1.1.png)
 
 1. **Shortcut Bar**—Contains shortcuts to the Mail, Calendar, and Contacts applications in the Amazon WorkMail web application\. The currently active application is highlighted in the shortcut bar\.
 
-1. **Navigation Pane**—Allows you to navigate within the active application, such as the folders in the email application or the calendars within the calendar application\.
+1. **Navigation Pane**—Allows you to move through the active application, such as the folders in the Email application or the calendars within the Calendar application\.
 
 1. **Menu Bar**—Controls the most important functions for the Mail, Calendar, and Contacts applications\. The controls that are available vary depending on the application that is active\. Depending on the application in use, you can create new items, change the view, print, or access the address book\.
 

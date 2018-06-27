@@ -1,9 +1,10 @@
 # Getting Started with Amazon WorkMail<a name="getting_started"></a>
 
-Amazon WorkMail integrates with most popular email applications and devices so that you can synchronize your email, calendar, and contacts\.
+Amazon WorkMail integrates with most popular email apps and devices so that you can synchronize your email, calendar, and contacts\.
 
 **Topics**
 + [Connect Microsoft Outlook to Your Amazon WorkMail Account](connect_mail_client.md)
++ [Manually Connect Microsoft Outlook to Amazon WorkMail](outlook_manual.md)
 + [Connect Your Mail App on Windows 10](connect_win10_mail.md)
 + [Connect Your Mail App on macOS](connect_mac_mail.md)
 + [Connect Your iOS Device](connect_ios_device.md)
