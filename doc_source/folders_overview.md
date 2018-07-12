@@ -2,15 +2,8 @@
 
 The Amazon WorkMail web application uses folders to store email, calendars, and contacts\. Email is stored in mail folders, calendar items are stored in calendar folders, and contacts are stored in contact folders, and so on\.
 
+You can choose to share folders with other users\.
+
 **Topics**
-+ [Create a New Folder](create_folder.md)
-+ [Delete a Folder](delete_folder.md)
-+ [Empty the Deleted Items Folder](empty_deleted_items.md)
-+ [Mark Items as Read or Unread](mark_items_read_unread.md)
-+ [View the Size of a Folder](view_folder_size.md)
-+ [Share an Email Folder with Another User](share_email_folder.md)
-+ [Open a Shared Email Folder](shared_folder.md)
-+ [Copy, Move, or Rename a Folder](copy_move_rename_folder.md)
-+ [View Folder Permissions](view_folder_permissions.md)
-+ [Change a Folder's Permissions](change_folder_permissions.md)
-+ [Stop Sharing a Folder](stop_sharing_folders.md)
++ [Managing Folders](manage-folders.md)
++ [Sharing Folders and Folder Permissions](share-folders.md)

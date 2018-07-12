@@ -30,7 +30,7 @@ Reading the email in your inbox\.
 
 1. Select the row of the message to read\. Press **Enter** to open the message in a new tab\.
 
-1. Press **Tab** to navigate through the **Response** toolbar\. Use the **Up/Down** arrows to navigate through the page, and read the body of the message line\-by\-line\.
+1. Press **Tab** to navigate through the **Response** toolbar\. Use the **Up/Down** arrows to navigate through the page and read the body of the message line by line\.
 
 **To reply to email**
 

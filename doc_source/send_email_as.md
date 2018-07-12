@@ -1,4 +1,4 @@
-# Send Email as Someone Else<a name="send_email_as"></a>
+# Sending Email as Someone Else<a name="send_email_as"></a>
 
 You can send email as another user or group if your administrator has granted you the **Send As** permission\.
 
@@ -8,7 +8,7 @@ You can send email as another user or group if your administrator has granted yo
 
 1. On the menu bar, choose **\+ New item**, **New email**\.
 **Tip**  
-You can also choose the plus sign \(\+\) on the tab bar\.
+You can also choose the plus sign \(**\+**\) on the tab bar\.
 
 1. Under the **To** field, choose **From**\.
 

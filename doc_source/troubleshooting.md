@@ -10,6 +10,3 @@ If your session has expired on the server and you are no longer logged in to the
 
 **Mail cannot be saved**  
 If your email gets stuck in your outbox and doesn't get sent, Amazon WorkMail displays this error message\. This may be due to a network issue\. Try saving the email again to resolve this error\.
-
-**Email redirection is not working**  
-If your email redirection is not working, you may need to update the domain sending authorization policy\. A new API operation allows you to redirect email to any address, regardless of whether it's part of your domain\. This needs to be done manually for domains added before October 13, 2016\. For more information, see [Editing Domains](http://docs.aws.amazon.com/workmail/latest/adminguide/editing_domains.html)\.

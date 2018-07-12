@@ -4,20 +4,22 @@ You can change many of the default settings for the Amazon WorkMail web applicat
 
 **To change the Amazon WorkMail web application default settings**
 
-1. In the Amazon WorkMail web application, on the menu bar, choose **Settings** \(gear\) icon\.
+1. In the Amazon WorkMail web application, on the menu bar, choose **Settings** \(gear icon\)\.
 
-1. In the navigation pane, select one of the tabs listed below to update the settings as appropriate\.
+1. In the navigation pane, select the **General** tab, **Email** tab, **Email Rules** tab, **Automatic response** tab, or **Calendar** tab to update the settings as appropriate\.
 
-1. Press the F5 key to refresh and activate the new settings\.
+1. Press the **F5** key to refresh and activate the new settings\.
 
 **Topics**
-+ [General Tab](#general_tab)
-+ [Email Tab](#email_tab)
-+ [Email Rules Tab](#email_filters_tab)
-+ [Automatic Response Tab](#automatic_response_tab)
-+ [Calendar Tab](#calendar_tab)
++ [General Settings](#general_tab)
++ [Email Settings](#email_tab)
++ [Email Rules Settings](#email_filters_tab)
++ [Automatic Response Settings](#automatic_response_tab)
++ [Calendar Settings](#calendar_tab)
 
-## General Tab<a name="general_tab"></a>
+## General Settings<a name="general_tab"></a>
+
+View mailbox usage and set your password, preferred language, and default address book from the **General** tab using the following settings\.
 
 ****Change password****  
 To change your password, choose **Change password**, and then follow the instructions on the screen\.  
@@ -31,44 +33,11 @@ Shows the current amount of storage space used\. To reduce your mailbox size you
 
 ****Address Book****  
 To select a default address book, in **Select Default Folder**, select the address book to use\.  
-The default address book is loaded when choosing **Address book** from the main menu bar or when selecting the To/Cc/Bcc field when composing a new email\.
+The default address book is loaded when choosing **Address book** from the main menu bar or when selecting the To, Cc, or Bcc field when composing a new email\.
 
-****Keyboard shortcuts****  
-To control the Amazon WorkMail web client using your keyboard, select the **Turn keyboard shortcuts on** check box\. The following shortcuts are available:  
-**Creating new items**  
-**CTRL \+ SHIFT \+ A**—New appointment  
-**CTRL \+ SHIFT \+ B**—New meeting request  
-**CTRL \+ SHIFT \+ X**—New item  
-**CTRL \+ SHIFT \+ C**—New contact  
-**CTRL \+ SHIFT \+ D**—New distribution list  
-**CTRL \+ SHIFT \+ F**—New folder  
-**CTRL \+ SHIFT \+ M**—New mail  
-**Basic navigation**  
-**CTRL \+ 0\.\.\.9**—Switch between different contexts, such as inbox, calendar, and so on  
-**CTRL \+ SHIFT \+ 1\.\.\.9**—Switch between different views  
-**CTRL \+ SHIFT \+ ARROW KEYS** Switch between tabs  
-**ALT \+ S**—Open shared folder/store  
-**CTRL \+ SHIFT \+ L**—Close tab  
-**All views**  
-**F5**—Refresh  
-**CTRL \+ A**—Select all items  
-**CTRL \+ SHIFT \+ G**—Print list  
-**CTRL \+ P**—Print selected item  
-**CTRL \+ M**—Open copy/move dialog  
-**ENTER**—Open selected item  
-**DELETE**—Delete selected item  
-**Items**  
-**CTRL \+ P**—Print item  
-**CTRL \+ S**—Save an item, such as mail, contact, and so on\.  
-**CTRL \+ ENTER**—Send an item, such as mail, meeting request, and so on\.  
-**Mail**  
-**CTRL \+ SHIFT \+ U**—Toggle read/unread  
-**CTRL \+ SHIFT \+ H**—Toggle red/complete flag  
-**CTRL \+ R**—Reply  
-**CTRL \+ SHIFT \+ Y**—Reply all  
-**CTRL \+ F**—Forward
+## Email Settings<a name="email_tab"></a>
 
-## Email Tab<a name="email_tab"></a>
+Change email preview, formatting, font, and other options from the **Email** tab using the following settings\.
 
 ****Display preview pane****  
 You can choose to view a preview of items to the right of the content pane or below the content pane\. You can also choose to turn off the preview pane\.  
@@ -96,27 +65,33 @@ Select whether Amazon WorkMail should always send a read receipt, never send a r
 You can create several signatures for different purposes\. For example, you can create a signature for business and one for private use, or create a long signature one for new emails and a short signature for replies and forwards\.  
 After you have created one or more signatures, you can \(optionally\) specify which one to use for new messages and which one to use for replies and forwards\.
 
-## Email Rules Tab<a name="email_filters_tab"></a>
+## Email Rules Settings<a name="email_filters_tab"></a>
 
-You can create email rules that help you focus on important emails and keep your inbox tidy\. Rules are stored on the server so that they can filter the mail before it arrives in your inbox\.
+Email rules can help you focus on important emails and keep your inbox tidy\. Rules are stored on the server so that they can filter the mail before it arrives in your inbox\.
 
 You can create as many rules as you want and with each rule, you can set various conditions to trigger the rule\. You can also set various follow\-up actions after the rule has been triggered\.
 
-You can construct complex rules to deal with large email volumes or complex work flows\.
+You can construct complex rules to deal with large email volumes or complex workflows\.
 
-To create a new mail rule, choose **New**, and then in the **New email rule** dialog box, define the rule\.
+**To create a new email rule**
+
+1. From the **Email Rules** tab, choose **New**\.
+
+1. In the **New email rule** dialog box, define the rule\.
 
 You can set various conditions and actions that Amazon WorkMail performs on every message that meets the criteria you define\.
 
-## Automatic Response Tab<a name="automatic_response_tab"></a>
+## Automatic Response Settings<a name="automatic_response_tab"></a>
 
-The Amazon WorkMail web application lets you mark yourself “in” or “out” of the office\. Specify the message that is sent automatically in reply to all incoming messages while you are away\.
+Mark yourself in or out of the office from the **Automatic Response** tab\. Specify the message that is sent automatically in reply to all incoming messages while you are away\.
 
 To prevent someone who is sending you several emails per day from getting a reply on each message, automatic responses are only sent one time to any specific email address\. This also prevents a mail flood in case the person who sends you the email also has automatic responses turned on\.
 
-When **Automatic response** is enabled, and you log to the Amazon WorkMail web application, a warning message is shown to remind you that the **Automatic response** is set\. The warming message prompts you to turn it off\.
+When **Automatic response** is enabled, and you sign on to the Amazon WorkMail web application, a warning message is shown to remind you that the **Automatic response** is set\. The warming message prompts you to turn it off\.
 
-## Calendar Tab<a name="calendar_tab"></a>
+## Calendar Settings<a name="calendar_tab"></a>
+
+Set your calendar format, default reminder time, and other options using the following settings\.
 
 ****First day of the week****  
 If your week starts on another day than Monday, you can set it to any other day using this setting\. The calendar then always starts with this day\.
@@ -124,8 +99,8 @@ If your week starts on another day than Monday, you can set it to any other day 
 ****First week of the year****  
 Specify how the calendar should begin the year\.
 
-****Start of workday/End of workday****  
-Specify the part of the day that is marked as “workday\.” The calendar shows this time period in a slightly different color so you can easily see when an appointment or meeting is scheduled outside office hours\. The default values for office hours are 8:30 \- 17:30 \(8:30 AM \- 5:30 PM\)\.
+****Start of workday**, **End of workday****  
+Specify the part of the day that is marked as your workday\. The calendar shows this time period in a slightly different color so you can easily see when an appointment or meeting is scheduled outside office hours\. The default values for office hours are 8:30 \- 17:30 \(8:30 AM \- 5:30 PM\)\.
 
 ****Calendar resolution****  
 If your appointments frequently start at other times than each half or entire hour, or have a duration other than \(multiples of\) 30 minutes, then you can change this value to better fit your needs\.  

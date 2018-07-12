@@ -1,4 +1,4 @@
-# Send Email on Behalf of Someone Else<a name="send_email_delegate"></a>
+# Sending Email on Behalf of Someone Else<a name="send_email_delegate"></a>
 
 You can send email on another user's behalf if they've made you their delegate\.
 
@@ -8,7 +8,7 @@ You can send email on another user's behalf if they've made you their delegate\.
 
 1. On the menu bar, choose **\+ New item**, **New email**\.
 **Tip**  
-You can also choose the plus sign \(\+\) on the tab bar\.
+You can also choose the plus sign \(**\+**\) on the tab bar\.
 
 1. Under the **To** field, choose **From**\.
 

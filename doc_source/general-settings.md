@@ -2,12 +2,12 @@
 
 You can modify the default and email settings in the Amazon WorkMail web application\.
 
-## General Settings<a name="w3ab2c26c11b5"></a>
+## General Settings<a name="general"></a>
 
 The general settings have the following defaults, which can be modified\.
-+ **Date format**—**English \(US\)**
-+ **Address Book**—**Global Address List**
-+ **Keyboard shortcuts**—Off
++ **Date format** \- **English \(US\)**
++ **Address Book** \- **Global Address List**
++ **Keyboard shortcuts** \- Off
 
 **To change the default account settings**
 
@@ -23,7 +23,7 @@ The general settings have the following defaults, which can be modified\.
 
 1. In the **Settings** screen, the default landing point is the **General** tab\.
 
-1. Press **Tab** until the screen reader reads *Date format English U\.S combo\-box read only*\. Hold down **Alt\+Down** to open the field and use the **Up/Down** arrows to select the date format\.
+1. Press **Tab** until the screen reader reads *Date format English \(US\) combo\-box read only*\. Hold down **Alt\+Down** to open the field and use the **Up/Down** arrows to select the date format\.
 
 1. Press **Enter** to confirm the selection\.
 
@@ -37,16 +37,16 @@ The general settings have the following defaults, which can be modified\.
 **Note**  
 Restart Amazon WorkMail to have the date format and keyboard shortcut changes take effect\.
 
-## Email Settings<a name="w3ab2c26c11b7"></a>
+## Email Settings<a name="email-settings"></a>
 
 Email settings have the following defaults, which can be modified\.
-+ **Display preview pane**—Right
-+ **Close email when responding**—On
-+ **Format**—HTML
-+ **Default font**—Narrow Sans Serif
-+ **Default font size**—Normal
-+ **Always request a read receipt**—Off
-+ **Incoming mail**—**Ask me before sending a response**
++ **Display preview pane** \- Right
++ **Close email when responding** \- On
++ **Format** \- HTML
++ **Default font** \- Narrow Sans Serif
++ **Default font size** \- Normal
++ **Always request a read receipt** \- Off
++ **Incoming mail** \- **Ask me before sending a response**
 
 **To change email settings**
 

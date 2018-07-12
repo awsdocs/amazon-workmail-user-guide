@@ -1,4 +1,4 @@
-# Schedule a Meeting on Behalf of Someone Else<a name="schedule_meeting_delegate"></a>
+# Scheduling Meetings on Behalf of Someone Else<a name="schedule_meeting_delegate"></a>
 
 If another user has made you their delegate, you can schedule meetings on their behalf\.
 
@@ -15,7 +15,7 @@ If another user has made you their delegate, you can schedule meetings on their 
    The shared calendar is now visible in the folder navigation pane\.
 **Note**  
 Your opened folders are stored in your Amazon WorkMail web application profile\. The next time that you log in to the Amazon WorkMail web application, the opened folders are still displayed\.  
-If you receive a message saying that "`You have insufficient privileges to open this folder.`" contact the owner of the folder and ask them to grant you access\.  
+If you receive a message saying that `You have insufficient privileges to open this folder`, contact the owner of the folder and ask them to grant you access\.  
 To change folder permissions, in the navigation pane, open the context \(right\-click\) menu for the folder and choose **Properties**, **Permissions**\.
 
 1. To create a meeting request, open the day and time on the calendar when the meeting should occur\.
