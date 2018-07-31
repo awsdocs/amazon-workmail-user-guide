@@ -15,9 +15,11 @@ You also need your unique Amazon WorkMail web application URL\. This URL contain
 
 1. In the address bar of your browser, type or paste the web application URL\.
 
-1. On the Amazon WorkMail web application sign\-in screen, type your user name and password, and then choose **Sign In**\.
+1. On the Amazon WorkMail web application sign\-in screen, type your user name and password\.
+**Note**  
+Do not type your email address here\.
 
-1. Sign in to the Amazon WorkMail web application, and you are ready to work\.
+1. Choose **Sign In**\. You are ready to work\.
 
 The Amazon WorkMail web application consists of the following areas:
 

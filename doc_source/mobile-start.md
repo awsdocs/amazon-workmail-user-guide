@@ -13,9 +13,11 @@ Amazon WorkMail supports Exchange ActiveSync for integration with Android device
 
 **To connect your Amazon WorkMail account to your Android device**
 
-1. On your Android device, choose **Apps**, **Email**, **Add Account**, **Exchange**\.
+1. On your Android device, choose **Apps**, **Email**, **Add Account**\.
 
-1. In the **Exchange** dialog box, type your Amazon WorkMail email address, password, a description for the account, and then choose **Next**\.
+1. Depending on which options are available in your mail app, choose **Exchange** or choose **Microsoft Exchange ActiveSync**\. For more information, see [Set up email in Android email app](https://support.office.com/en-us/article/set-up-email-in-android-email-app-71147974-7aca-491b-978a-ab15e360434c)\.
+
+1. In the dialog box, type your Amazon WorkMail email address, password, a description for the account, and then choose **Next**\.
 **Note**  
 If your account cannot be found, you are prompted to provide the name of your Exchange server, domain, user name, and password\. For more information, see [Manually Connect Your Mobile Device](#manually_connect_device)\.
 
