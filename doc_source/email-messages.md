@@ -37,7 +37,7 @@ You can also choose the plus sign \(\+\) on the tab bar\.
 
 ## Sending Email from an Alias<a name="send_alias"></a>
 
-You can send and receive email using an alias that your administrator configures for you\. Recipients outside of your organization then see the sender as your alias address instead of your primary address\. For information about configuring aliases, see [Edit User Email Addresses](http://docs.aws.amazon.com/workmail/latest/adminguide/edit_user_email_addresses.html)\.
+You can send and receive email using an alias that your administrator configures for you\. Recipients outside of your organization then see the sender as your alias address instead of your primary address\. For information about configuring aliases, see [Edit User Email Addresses](https://docs.aws.amazon.com/workmail/latest/adminguide/edit_user_email_addresses.html)\.
 
 **Note**  
 If you send an email from an alias to someone in your organization, the message is still received from your primary address\. 

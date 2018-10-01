@@ -45,8 +45,10 @@ In older versions, select **Accounts**, **Add Account**, **Exchange**\.
 1. In iOS 11, type your Amazon WorkMail email address and a description for the account, choose **Next**, **Sign in**, and type the password associated with your email address\.
 **Note**  
 In older versions, type your Amazon WorkMail email address, password, a description for the account, and choose **Next**\.  
-In iOS 11, automatic configuration works if you use a complementary domain, such as awsapps\.com, or if you use a customer domain and Autodiscover Phase 2\. For more information, see [Use AutoDiscover to Configure Endpoints](http://docs.aws.amazon.com/workmail/latest/adminguide/autodiscover.html)\.  
-If your account cannot be found, you are prompted to provide the name of your Exchange server, domain, user name, and password\. For more information, see [Manually Connect Your Mobile Device](#manually_connect_device)\. In the Exchange confirmation dialog box, select the items to synchronize with your device, and then choose **Save**\. 
+In iOS 11, automatic configuration works if you use a complementary domain, such as awsapps\.com, or if you use a customer domain and Autodiscover Phase 2\. For more information, see [Use AutoDiscover to Configure Endpoints](https://docs.aws.amazon.com/workmail/latest/adminguide/autodiscover.html)\.  
+If your account cannot be found, you are prompted to provide the name of your Exchange server, domain, user name, and password\. For more information, see [Manually Connect Your Mobile Device](#manually_connect_device)\.
+
+1. In the Exchange confirmation dialog box, select the items to synchronize with your device, and then choose **Save**\.
 
    You can now use your iOS device with your Amazon WorkMail account\.
 **Note**  
@@ -62,6 +64,6 @@ If your mobile device doesn't support auto\-discover or if automatic configurati
 |  **Type of account**  |  Exchange  | 
 |  **Protocol**  |  ActiveSync  | 
 |  **Domain**  |  Empty  | 
-|  **Username**  |  Email address associated with your Amazon WorkMail account  | 
+|  **User name**  |  Email address associated with your Amazon WorkMail account  | 
 |  **Password**  |  Your password  | 
 |  **Server**  |  The endpoint matching the AWS Region where your mailbox is located: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/workmail/latest/userguide/mobile-start.html)  If you don't know the AWS Region where your mailbox is located, contact your system administrator\.   | 

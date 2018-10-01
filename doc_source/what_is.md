@@ -4,13 +4,12 @@ Amazon WorkMail is a managed email and calendaring service with strong security 
 
 ## Amazon WorkMail System Requirements<a name="workmail_reqs"></a>
 
-Amazon WorkMail works with all major mobile devices and operating systems that support the Exchange ActiveSync protocol, including the Apple iPad, Apple iPhone, Amazon Kindle Fire, Amazon Fire Phone, Android, Windows Phone, and BlackBerry 10\.
+Amazon WorkMail works with all major mobile devices and operating systems that support the Exchange ActiveSync protocol\. These include the iPad, iPhone, Amazon Fire, Amazon Fire Phone, Android, Windows Phone, and BlackBerry 10\. Users of macOS can add their Amazon WorkMail account to their Mail, Calendar, and Contacts apps\.
 
-You can access Amazon WorkMail from Microsoft Outlook on Windows and Mac\. You must have a valid Microsoft Outlook license to use it with Amazon WorkMail, which offers native support for the following versions:
-+ Outlook 2007, Outlook 2010, Outlook 2013, and Outlook 2016
+You can access Amazon WorkMail from Microsoft Outlook\. You must have a valid Microsoft Outlook license to use it with Amazon WorkMail, which offers native support for the following versions:
++ Office Outlook 2007, Outlook 2010, Outlook 2013, Outlook 2016, and Outlook 2019
 + Outlook 2010 and Outlook 2013 Click\-to\-Run
-+ Outlook for Mac 2011
-+ Outlook 2016 for Mac
++ Outlook for Mac 2011, Outlook 2016 for Mac, and Outlook 2019 for Mac
 
 Amazon WorkMail supports IMAP clients\. For the required configuration, see [Getting Started with an IMAP Client Application](using_IMAP_client.md)\. POP3 clients are not currently supported\.
 
