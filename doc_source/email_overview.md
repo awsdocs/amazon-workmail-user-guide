@@ -4,6 +4,7 @@ You can send and receive email, add or remove attachments, share inboxes, and se
 
 **Topics**
 + [Working with Email Messages](email-messages.md)
++ [Working with Email Rules](email-rules.md)
 + [Working with Attachments](email-attachments.md)
 + [Working with Shared and Full Access Inboxes](shared-inboxes.md)
 + [Sending Encrypted or Signed Email](send_encrypted_email.md)

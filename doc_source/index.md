@@ -25,6 +25,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Getting Started with an IMAP Client Application](using_IMAP_client.md)
 + [Working with Email](email_overview.md)
    + [Working with Email Messages](email-messages.md)
+   + [Working with Email Rules](email-rules.md)
    + [Working with Attachments](email-attachments.md)
    + [Working with Shared and Full Access Inboxes](shared-inboxes.md)
    + [Sending Encrypted or Signed Email](send_encrypted_email.md)
