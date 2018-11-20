@@ -1,6 +1,22 @@
 # Working with Email Rules<a name="email-rules"></a>
 
-You can use email rules to forward and redirect emails from your mailbox in Amazon WorkMail\. Emails can be forwarded or redirected to external email addresses and to Amazon WorkMail users, resources, or groups, but not to personal distribution lists in your **Contacts** folder\. 
+Use email rules to route emails from your mailbox in Amazon WorkMail\. You can forward or redirect emails to external email addresses and to Amazon WorkMail users, resources, or groups, but not to personal distribution lists in your **Contacts** folder\. 
+
+**To create an email rule**
+
+1. In the Amazon WorkMail web application, choose the gear icon\.
+
+1. Choose **Email rules**, **New**\.
+
+1. For **Rule name**, enter a name, and select **Active rule**\.
+
+1. For **Conditions**, choose the conditions for the rule, such as **is sent only to me**\.
+**Note**  
+To match a string with special HTML characters for the condition **Includes these rules in the body**, remove any left angle brackets from the string\. This allows matching against email body text that contains HTML markup\.
+
+1. For **Actions**, choose the actions for the rule, such as **Move message to folder**\.
+
+1. Choose **OK**, **Save changes**\.
 
 **To create an email forwarding rule**
 
