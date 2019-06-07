@@ -1,4 +1,4 @@
-# Getting Started with the macOS Mail App<a name="connect_mac_mail"></a>
+# Setting Up the macOS Mail App for Amazon WorkMail<a name="connect_mac_mail"></a>
 
 If you have the Mail app on macOS, you can add your Amazon WorkMail account\.
 

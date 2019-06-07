@@ -1,21 +1,40 @@
-# Changing Amazon WorkMail Web Application Default Settings<a name="settings_overview"></a>
+# Signing in to the Amazon WorkMail Web Client<a name="web-client"></a>
 
-You can change many of the default settings for the Amazon WorkMail web application\.
+Amazon WorkMail has a web\-based client that you use to access your Amazon WorkMail account from a web browser\. The Amazon WorkMail web client includes integrated applications, such as Mail, Calendar, and Contacts\. To get started with the Amazon WorkMail web client, you need a broadband internet connection and the latest version of one of the following web browsers:
++ Google Chrome
++ Mozilla Firefox
++ Safari
++ Microsoft Edge
 
-**To change the Amazon WorkMail web application default settings**
+Your Amazon WorkMail system administrator provides you with your initial sign\-in credentials, which consist of a user name and a password\. To recover a lost or forgotten password, contact your administrator\.
 
-1. In the Amazon WorkMail web application, on the menu bar, choose **Settings** \(gear icon\)\.
+Your administrator also provides you with a unique Amazon WorkMail web client URL\. This URL contains a unique alias set up by your Amazon WorkMail site administrator\. The web client URL looks like this: `https://alias.awsapps.com/mail`\.
+
+**To sign in to the Amazon WorkMail web client**
+
+1. In your web browser, enter the web client URL provided by your Amazon WorkMail administrator\. For example, `https://alias.awsapps.com/mail`\.
+
+1. For **Username**, enter your user name\.
+**Note**  
+Your user name is the first part of your email address\. For example, if your email address is `user@example.com`, your user name is `user`\.
+
+1. For **Password**, enter your password\.
+
+1. Choose **Sign In**\.
+
+## Changing Amazon WorkMail Web Client Settings<a name="settings_overview"></a>
+
+You can change many of the default settings for the Amazon WorkMail web client\.
+
+**To change the Amazon WorkMail web client settings**
+
+1. In the Amazon WorkMail web client, on the menu bar, choose **Settings** \(gear icon\)\.
 
 1. In the navigation pane, select the **General** tab, **Email** tab, **Email Rules** tab, **Automatic response** tab, or **Calendar** tab to update the settings as appropriate\.
 
 1. Press the **F5** key to refresh and activate the new settings\.
 
-**Topics**
-+ [General Settings](#general_tab)
-+ [Email Settings](#email_tab)
-+ [Email Rules Settings](#email_filters_tab)
-+ [Automatic Response Settings](#automatic_response_tab)
-+ [Calendar Settings](#calendar_tab)
+For more information about changing specific settings, see the following topics\.
 
 ## General Settings<a name="general_tab"></a>
 
@@ -87,7 +106,7 @@ Mark yourself in or out of the office from the **Automatic Response** tab\. Spec
 
 To prevent someone who is sending you several emails per day from getting a reply on each message, automatic responses are only sent one time to any specific email address\. This also prevents a mail flood in case the person who sends you the email also has automatic responses turned on\.
 
-When **Automatic response** is enabled, and you sign on to the Amazon WorkMail web application, a warning message is shown to remind you that the **Automatic response** is set\. The warming message prompts you to turn it off\.
+When **Automatic response** is enabled, and you sign on to the Amazon WorkMail web client, a warning message is shown to remind you that the **Automatic response** is set\. The warming message prompts you to turn it off\.
 
 ## Calendar Settings<a name="calendar_tab"></a>
 

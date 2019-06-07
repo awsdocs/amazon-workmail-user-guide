@@ -1,6 +1,9 @@
-# Getting Started with a Mobile Device<a name="mobile-start"></a>
+# Setting Up Mobile Device Clients for Amazon WorkMail<a name="mobile-client"></a>
 
-Get started with Amazon WorkMail by connecting your Android or iOS mobile device\.
+Use Exchange ActiveSync to connect your Android or iOS mobile device to Amazon WorkMail\.
+
+**Note**  
+Amazon WorkMail does not support draft synchronization with Android or iOS mobile devices\.
 
 **Topics**
 + [Connect Your Android Device](#connect_android_device)
@@ -22,10 +25,6 @@ Amazon WorkMail supports Exchange ActiveSync for integration with Android device
 If your account cannot be found, you are prompted to provide the name of your Exchange server, domain, user name, and password\. For more information, see [Manually Connect Your Mobile Device](#manually_connect_device)\.
 
 1. In the Exchange confirmation dialog box, select the items to synchronize with your device, and then choose **Save**\.
-
-   You can now use your Android email app with your Amazon WorkMail email account\.
-**Note**  
-Amazon WorkMail does not support draft synchronization with Android devices\.
 
 ## Connect Your iOS Device<a name="connect_ios_device"></a>
 
@@ -50,10 +49,6 @@ If your account cannot be found, you are prompted to provide the name of your Ex
 
 1. In the Exchange confirmation dialog box, select the items to synchronize with your device, and then choose **Save**\.
 
-   You can now use your iOS device with your Amazon WorkMail account\.
-**Note**  
-Amazon WorkMail does not support draft synchronization with iOS devices\.
-
 ## Manually Connect Your Mobile Device<a name="manually_connect_device"></a>
 
 If your mobile device doesn't support auto\-discover or if automatic configuration failed, you can manually configure the client by providing the following information:
@@ -66,4 +61,4 @@ If your mobile device doesn't support auto\-discover or if automatic configurati
 |  **Domain**  |  Empty  | 
 |  **User name**  |  Email address associated with your Amazon WorkMail account  | 
 |  **Password**  |  Your password  | 
-|  **Server**  |  The endpoint matching the AWS Region where your mailbox is located: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/workmail/latest/userguide/mobile-start.html)  If you don't know the AWS Region where your mailbox is located, contact your system administrator\.   | 
+|  **Server**  |  The endpoint matching the AWS Region where your mailbox is located: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/workmail/latest/userguide/mobile-client.html)  If you don't know the AWS Region where your mailbox is located, contact your system administrator\.   | 

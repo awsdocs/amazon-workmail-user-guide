@@ -1,19 +1,19 @@
-# Getting Started with Microsoft Outlook<a name="outlook-start"></a>
+# Setting Up Microsoft Outlook Clients for Amazon WorkMail<a name="outlook-client"></a>
 
 To get started with Microsoft Outlook, connect Microsoft Outlook to your Amazon WorkMail account\.
 
 **Topics**
-+ [Connect Microsoft Outlook to Your Amazon WorkMail Account](#connect_mail_client)
-+ [Manually Connect Microsoft Outlook to Amazon WorkMail](#outlook_manual)
++ [Connecting Microsoft Outlook Clients to Your Amazon WorkMail Account](#connect-outlook-client)
++ [Manually Connect Microsoft Outlook to Amazon WorkMail](#manual-outlook-client)
 
-## Connect Microsoft Outlook to Your Amazon WorkMail Account<a name="connect_mail_client"></a>
+## Connecting Microsoft Outlook Clients to Your Amazon WorkMail Account<a name="connect-outlook-client"></a>
 
 Amazon WorkMail uses auto\-discover to configure your Outlook client\. To set up your Outlook client, you need your Amazon WorkMail email address and password\. Amazon WorkMail integrates with the following versions of Outlook:
 + Office Outlook 2007, Outlook 2010, Outlook 2013, Outlook 2016, and Outlook 2019
 + Outlook for Mac 2011, Outlook 2016 for Mac, and Outlook 2019 for Mac
 
 **Note**  
-If automatic configuration fails, you can manually configure most Outlook clients, except for Outlook 2016 and Outlook 2019 for Windows\. For more information, see [Manually Connect Microsoft Outlook to Amazon WorkMail](#outlook_manual)\.
+If automatic configuration fails, you can manually configure most Outlook clients, except for Outlook 2016 and Outlook 2019 for Windows\. For more information, see [Manually Connect Microsoft Outlook to Amazon WorkMail](#manual-outlook-client)\.
 
 **To connect Microsoft Outlook to your Amazon WorkMail account**
 
@@ -53,7 +53,7 @@ For more information about adding accounts in Outlook for Mac, see the following
 + [Add an email account to Outlook for Mac 2011](https://support.office.com/en-us/article/Add-an-email-account-to-Outlook-for-Mac-2011-fdd33fab-b745-4762-a1c6-70ddba452983)
 + [Add an email account to Outlook](https://support.office.com/en-us/article/add-an-email-account-to-outlook-6e27792a-9267-4aa4-8bb6-c84ef146101b) \(Outlook 2016 for Mac, Outlook 2019 for Mac\)
 
-## Manually Connect Microsoft Outlook to Amazon WorkMail<a name="outlook_manual"></a>
+## Manually Connect Microsoft Outlook to Amazon WorkMail<a name="manual-outlook-client"></a>
 
 If automatic configuration fails, you can manually configure the following versions of Outlook:
 + Office Outlook 2007, Outlook 2010, and Outlook 2013
@@ -103,7 +103,7 @@ If you don’t know the AWS Region where your mailbox is located, contact your s
 
 1. After Outlook sets up your account, you’ll see a message that says your account is ready for use\. Choose **Finish**\.
 
-   For more information about adding accounts in Outlook, see [Set Up E\-Mail in Outlook 2010 or Outlook 2013](http://help.outlook.com/en-us/140/dd253202.aspx)\.
+   For more information about adding accounts in Outlook, see [Set Up Email in Outlook 2010 or Outlook 2013](http://help.outlook.com/en-us/140/dd253202.aspx)\.
 
 **To manually configure Outlook for Mac 2011, Outlook 2016 for Mac, and Outlook 2019 for Mac**
 

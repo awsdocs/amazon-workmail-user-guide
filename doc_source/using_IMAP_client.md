@@ -1,4 +1,4 @@
-# Getting Started with an IMAP Client Application<a name="using_IMAP_client"></a>
+# Setting Up an IMAP Client for Amazon WorkMail<a name="using_IMAP_client"></a>
 
 You can connect any IMAP\-compatible client software to Amazon WorkMail by providing the following information:
 

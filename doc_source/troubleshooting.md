@@ -5,6 +5,9 @@ Solutions to the most commonly encountered Amazon WorkMail web application error
 **Connection Loss**  
 If you lose connection to the server due to a network error, Amazon WorkMail displays a warning message at the top of the screen\. You cannot retrieve data from the server, but you can continue working with items that are currently open\. In the warning message, the timeout is shown for the next time the Amazon WorkMail web application will try to connect to the server\. To skip this timeout, and immediately retry, you can click the warning message\. If the connection has been reestablished, the warning message is removed, and you can continue working\. 
 
+**Secure connection failed**  
+If this message appears when signing in to the Amazon WorkMail web client, update your web browser to the latest version and try again\.
+
 **Session Expired**  
 If your session has expired on the server and you are no longer logged in to the server, Amazon WorkMail displays a warning message\. You can return to the login screen, or you can keep the Amazon WorkMail web application open \(without being allowed to open or save any data\)\.
 

@@ -1,4 +1,4 @@
-# Getting Started with the Windows 10 Mail App<a name="connect_win10_mail"></a>
+# Setting Up the Windows 10 Mail App for Amazon WorkMail<a name="connect_win10_mail"></a>
 
 If you have the Mail app on Windows 10, you can add your Amazon WorkMail account\.
 
