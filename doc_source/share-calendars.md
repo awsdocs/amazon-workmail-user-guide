@@ -12,15 +12,19 @@ You can give another user permission to view your calendar\.
 
 **To share your calendar with another user**
 
-1. In the Amazon WorkMail web application, on the shortcut bar, choose the calendar icon\.
+1. Sign in to the Amazon WorkMail web application\.
 
-1. In the navigation pane, open the context \(right\-click\) menu for the **Calendar** folder, and choose **Properties**\.
+1. In the navigation pane, choose the calendar icon\.
 
-1. On the **User details** page, under **Permissions**, choose **Add or remove**\.
+1. Open the context \(right\-click\) menu for **My calendars**, and then choose **Properties**\.
 
-1. Select the user to share your calendar with and choose **>>** to add them to the **Permissions** list\. Choose **Save**\.
+1. Choose **Permissions**\.
 
-1. On the **Permissions** tab, select the level of permissions to grant, and choose **Save**\.
+1. For **People with permissions**, choose **Add**\.
+
+1. Search for and select the users to share your calendar with\.
+
+1. Choose **Ok**, and then choose **Ok** again\.
 
 ## Opening Shared Calendars<a name="share_calendar"></a>
 

@@ -14,9 +14,9 @@ Your administrator also provides you with a unique Amazon WorkMail web client UR
 
 1. In your web browser, enter the web client URL provided by your Amazon WorkMail administrator\. For example, `https://alias.awsapps.com/mail`\.
 
-1. For **Username**, enter your user name\.
+1. For **Username**, enter the user name provided by your Amazon WorkMail administrator\.
 **Note**  
-Your user name is the first part of your email address\. For example, if your email address is `user@example.com`, your user name is `user`\.
+Do not enter your full email address\. User names are case\-sensitive\.
 
 1. For **Password**, enter your password\.
 
