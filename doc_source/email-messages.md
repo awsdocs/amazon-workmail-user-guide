@@ -1,6 +1,8 @@
 # Working with Email Messages<a name="email-messages"></a>
 
-Send, copy, move, print, and delete email messages from Amazon WorkMail\. If your administrator has created an alias for you, you can also send email as an alias\.
+Send, copy, move, print, and delete email messages from Amazon WorkMail\. If your administrator has created an alias for you, you can also send email using that alias\.
+
+If you are notified that you have reached 90 percent of your mailbox quota, you can delete email to free up space\.
 
 **Topics**
 + [Sending Email Messages](#create_send_email)
@@ -40,7 +42,11 @@ You can also choose the plus sign \(\+\) on the tab bar\.
 You can send and receive email using an alias that your administrator configures for you\. Recipients outside of your organization then see the sender as your alias address instead of your primary address\. For information about configuring aliases, see [Edit User Email Addresses](https://docs.aws.amazon.com/workmail/latest/adminguide/edit_user_email_addresses.html)\.
 
 **Note**  
+Sending email from an alias is not supported for EWS clients or ActiveSync mobile devices\.
+
 If you send an email from an alias to someone in your organization, the message is still received from your primary address\. 
+
+For information about sending email as a delegate, see [Working with Delegates](delegates_overview.md)\.
 
 **To send an email from an alias**
 
@@ -51,9 +57,6 @@ If you send an email from an alias to someone in your organization, the message 
 To include a display name, use the SMTP standard format `Your Name <youralias@domain.com>`\.
 
 1. When you're ready to send the email, choose **Send**\.
-
-**Note**  
- For information about sending email as a delegate, see [Working with Delegates](delegates_overview.md)\. 
 
 ## Copying or Moving Email Messages<a name="copy_move_email"></a>
 

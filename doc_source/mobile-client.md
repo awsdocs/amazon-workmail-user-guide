@@ -35,19 +35,25 @@ If your organization has enabled mobile device management, you may be required t
 
 **To connect your Amazon WorkMail account to your iOS device**
 
-1. On your iOS device, choose **Settings**, and then scroll down to **Accounts & Passwords** \(or in older versions, **Mail**\)\. 
+1. On your iOS device, choose **Settings**\.
 
-1. Choose **Add Account** and **Exchange**\.
+1. Do one of the following:
+   + Scroll down to **Passwords & Accounts**\.
+   + In older versions, scroll down to **Mail**\. 
+
+1. Do one of the following:
+   + Choose **Add Account**, then choose **Exchange** or **Microsoft Exchange**\.
+   + In older versions, choose **Accounts**, **Add Account**, **Exchange**\.
+
+1. Do one of the following:
+   + In iOS 11 and later, enter your Amazon WorkMail email address and a description for the account\. Choose **Next**, **Sign in**, and enter the password associated with your email address\.
+   + In older versions, enter your Amazon WorkMail email address, password, a description for the account, and choose **Next**\.
 **Note**  
-In older versions, select **Accounts**, **Add Account**, **Exchange**\.
+In iOS 11 and later, automatic configuration works if you use your organization's *alias*\.awsapps\.com complementary domain, or if you use a customer domain with Autodiscover Phase 2 that is configured for the domain\. For more information, see [Use AutoDiscover to Configure Endpoints](https://docs.aws.amazon.com/workmail/latest/adminguide/autodiscover.html)\.
 
-1. In iOS 11, type your Amazon WorkMail email address and a description for the account, choose **Next**, **Sign in**, and type the password associated with your email address\.
-**Note**  
-In older versions, type your Amazon WorkMail email address, password, a description for the account, and choose **Next**\.  
-In iOS 11, automatic configuration works if you use a complementary domain, such as awsapps\.com, or if you use a customer domain and Autodiscover Phase 2\. For more information, see [Use AutoDiscover to Configure Endpoints](https://docs.aws.amazon.com/workmail/latest/adminguide/autodiscover.html)\.  
-If your account cannot be found, you are prompted to provide the name of your Exchange server, domain, user name, and password\. For more information, see [Manually Connect Your Mobile Device](#manually_connect_device)\.
-
-1. In the Exchange confirmation dialog box, select the items to synchronize with your device, and then choose **Save**\.
+1. Do one of the following:
+   + In the Exchange confirmation dialog box, select the items to synchronize with your device, and then choose **Save**\.
+   + If your account cannot be found, you are prompted to provide the name of your Exchange server, domain, user name, and password\. For more information, see [Manually Connect Your Mobile Device](#manually_connect_device)\.
 
 ## Manually Connect Your Mobile Device<a name="manually_connect_device"></a>
 

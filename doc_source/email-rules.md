@@ -18,6 +18,9 @@ To match a string with special HTML characters for the condition **Includes thes
 
 1. Choose **OK**, **Save changes**\.
 
+**Note**  
+The **is sent to** email rule is only activated when the indicated recipients are in the **To:** or **CC:** fields of the email message\.
+
 **To create an email forwarding rule**
 
 1. In the Amazon WorkMail web application, choose the gear icon\.

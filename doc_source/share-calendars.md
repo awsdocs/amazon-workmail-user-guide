@@ -16,7 +16,9 @@ You can give another user permission to view your calendar\.
 
 1. In the navigation pane, choose the calendar icon\.
 
-1. Open the context \(right\-click\) menu for **My calendars**, and then choose **Properties**\.
+1. Under **My calendars**, open the context \(right\-click\) menu for a calendar\.
+
+1. Choose **Properties**\.
 
 1. Choose **Permissions**\.
 
