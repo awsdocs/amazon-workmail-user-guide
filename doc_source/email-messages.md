@@ -44,7 +44,7 @@ You can send and receive email using an alias that your administrator configures
 **Note**  
 Sending email from an alias is not supported for EWS clients or ActiveSync mobile devices\.
 
-If you send an email from an alias to someone in your organization, the message is still received from your primary address\. 
+If you send an email from an alias to someone in your organization, the message is still received from your primary address\.
 
 For information about sending email as a delegate, see [Working with Delegates](delegates_overview.md)\.
 
