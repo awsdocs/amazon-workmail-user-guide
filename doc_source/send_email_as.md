@@ -1,4 +1,4 @@
-# Sending Email as Someone Else<a name="send_email_as"></a>
+# Sending email as someone else<a name="send_email_as"></a>
 
 You can send email as another user or group if your administrator has granted you the **Send As** permission\.
 

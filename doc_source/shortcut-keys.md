@@ -1,6 +1,6 @@
-# Using Shortcut Keys with Amazon WorkMail<a name="shortcut-keys"></a>
+# Using shortcut keys with Amazon WorkMail<a name="shortcut-keys"></a>
 
-Shortcut keys are globally applicable and not specific to screen reader software\. Keyboard shortcuts are disabled by default\. To enable keyboard shortcuts, see [Working with General and Email Settings](general-settings.md)\.
+Shortcut keys are globally applicable and not specific to screen reader software\. Keyboard shortcuts are disabled by default\. To enable keyboard shortcuts, see [Working with general and email settings](general-settings.md)\.
 
 **Note**  
 For Mac, use **Cmd** instead of **Ctrl**\.

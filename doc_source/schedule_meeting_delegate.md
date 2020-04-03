@@ -1,4 +1,4 @@
-# Scheduling Meetings on Behalf of Someone Else<a name="schedule_meeting_delegate"></a>
+# Scheduling meetings on behalf of someone else<a name="schedule_meeting_delegate"></a>
 
 If another user has made you their delegate, you can schedule meetings on their behalf\.
 

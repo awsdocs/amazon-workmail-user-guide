@@ -1,15 +1,15 @@
-# Managing Contacts<a name="manage-contacts"></a>
+# Managing contacts<a name="manage-contacts"></a>
 
 You can create, edit, copy, move, print, or delete contacts from Amazon WorkMail\.
 
 **Topics**
-+ [Creating Contacts](#create_contact)
-+ [Editing Contacts](#edit_contact)
-+ [Copying or Moving Contacts](#copy_move_contact)
-+ [Printing Contacts](#print_contact)
-+ [Deleting Contacts](#delete_contact)
++ [Creating contacts](#create_contact)
++ [Editing contacts](#edit_contact)
++ [Copying or moving contacts](#copy_move_contact)
++ [Printing contacts](#print_contact)
++ [Deleting contacts](#delete_contact)
 
-## Creating Contacts<a name="create_contact"></a>
+## Creating contacts<a name="create_contact"></a>
 
 You can create a contact and mark them as private so that they cannot be seen by anyone that you share your contacts with\.
 
@@ -29,7 +29,7 @@ Microsoft Outlook users can import contacts from a `.csv` file\.
 
 1. When you're finished editing, choose **Save**\.
 
-## Editing Contacts<a name="edit_contact"></a>
+## Editing contacts<a name="edit_contact"></a>
 
 You can edit your contacts to update their information\.
 
@@ -43,7 +43,7 @@ You can edit your contacts to update their information\.
 
 1. Update the contact information as appropriate, and choose **Save**\.
 
-## Copying or Moving Contacts<a name="copy_move_contact"></a>
+## Copying or moving contacts<a name="copy_move_contact"></a>
 
 You can copy or move a contact to another folder\.
 
@@ -55,7 +55,7 @@ You can copy or move a contact to another folder\.
 
 1. Select the contact, choose **Copy/Move**, select the destination folder, and then choose either **Copy** or **Move**\.
 
-## Printing Contacts<a name="print_contact"></a>
+## Printing contacts<a name="print_contact"></a>
 
 If you have a printer configured to print documents from your computer, you can print your contacts\.
 
@@ -67,7 +67,7 @@ If you have a printer configured to print documents from your computer, you can 
 
 1. In the contents pane, double\-click the contact to print\. On the menu bar, choose **Print**\.
 
-## Deleting Contacts<a name="delete_contact"></a>
+## Deleting contacts<a name="delete_contact"></a>
 
 When you no longer need contacts, you can delete them\.
 

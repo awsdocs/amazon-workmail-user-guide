@@ -1,15 +1,15 @@
-# Sharing Folders and Folder Permissions<a name="share-folders"></a>
+# Sharing folders and folder permissions<a name="share-folders"></a>
 
 You can share email folders with other Amazon WorkMail users and open folders that have been shared with you\. You can also view, change, or remove folder permissions for a shared folder\.
 
 **Topics**
-+ [Sharing Email Folders with Other Users](#share_email_folder)
-+ [Opening Shared Email Folders](#shared_folder)
-+ [Viewing Folder Permissions](#view_folder_permissions)
-+ [Changing Folder Permissions](#change_folder_permissions)
-+ [Stop Sharing Folders](#stop_sharing_folders)
++ [Sharing email folders with other users](#share_email_folder)
++ [Opening shared email folders](#shared_folder)
++ [Viewing folder permissions](#view_folder_permissions)
++ [Changing folder permissions](#change_folder_permissions)
++ [Stop sharing folders](#stop_sharing_folders)
 
-## Sharing Email Folders with Other Users<a name="share_email_folder"></a>
+## Sharing email folders with other users<a name="share_email_folder"></a>
 
 You can give another user permission to view an email folder\.
 
@@ -25,7 +25,7 @@ You can give another user permission to view an email folder\.
 
 1. On the **Permissions** tab, select the level of permissions to grant, and choose **Save**\.
 
-## Opening Shared Email Folders<a name="shared_folder"></a>
+## Opening shared email folders<a name="shared_folder"></a>
 
 You can open an email folder that has been shared with you\.
 
@@ -49,7 +49,7 @@ To change folder permissions, in the navigation pane, open the context \(right\-
 
 1. To close a shared folder, open the context \(right\-click\) menu for the shared folder, and choose **Close store**\.
 
-## Viewing Folder Permissions<a name="view_folder_permissions"></a>
+## Viewing folder permissions<a name="view_folder_permissions"></a>
 
 By default, you have full permissions on all of the folders and items that you own\. You can share your folders with other users and groups in your organization by changing the permissions for a folder\. The folder permissions provide others with different access privileges to the folder and its contents\.
 
@@ -63,7 +63,7 @@ By default, you have full permissions on all of the folders and items that you o
 
 1. For **Profile**, select a predefined set of permissions, or customize the permissions as needed\.
 
-## Changing Folder Permissions<a name="change_folder_permissions"></a>
+## Changing folder permissions<a name="change_folder_permissions"></a>
 
 You can set the permissions on a shared folder to specify the actions another user can perform on items in folder you shared with them\.
 
@@ -85,7 +85,7 @@ You can set the permissions on a shared folder to specify the actions another us
 
 1. Choose **OK**\.
 
-## Stop Sharing Folders<a name="stop_sharing_folders"></a>
+## Stop sharing folders<a name="stop_sharing_folders"></a>
 
 If you've shared a folder with another user, you can stop sharing it at any time\.
 

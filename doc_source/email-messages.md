@@ -1,17 +1,17 @@
-# Working with Email Messages<a name="email-messages"></a>
+# Working with email messages<a name="email-messages"></a>
 
 Send, copy, move, print, and delete email messages from Amazon WorkMail\. If your administrator has created an alias for you, you can also send email using that alias\.
 
 If you are notified that you have reached 90 percent of your mailbox quota, you can delete email to free up space\.
 
 **Topics**
-+ [Sending Email Messages](#create_send_email)
-+ [Sending Email from an Alias](#send_alias)
-+ [Copying or Moving Email Messages](#copy_move_email)
-+ [Printing Email Messages](#print_email)
-+ [Deleting Email Messages](#delete_email_message)
++ [Sending email messages](#create_send_email)
++ [Sending email from an alias](#send_alias)
++ [Copying or moving email messages](#copy_move_email)
++ [Printing email messages](#print_email)
++ [Deleting email messages](#delete_email_message)
 
-## Sending Email Messages<a name="create_send_email"></a>
+## Sending email messages<a name="create_send_email"></a>
 
 You can create and send a message to one or more recipients, include attachments, set the priority, or add a flag to indicate that the message is important\.
 
@@ -28,7 +28,7 @@ You can also choose the plus sign \(\+\) on the tab bar\.
    To add users from the address book or to add them to the **CC** or **BCC** fields, choose **To**, and select one or more users from the address book as appropriate\.
 
 1. \(Optional\) Do one of the following:
-   + To add an attachment, choose **Attach**\. For more information on attachments, see [Working with Attachments](email-attachments.md)\.
+   + To add an attachment, choose **Attach**\. For more information on attachments, see [Working with attachments](email-attachments.md)\.
    + To mark the message as important or high priority, low priority, or for follow\-up, choose the exclamation mark \(\!\), down arrow, or flag icon\.  
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/workmail/latest/userguide/images/follow-up-flags.png)
    + To mark the message for follow\-up or as a completed task, choose the flag or the checkmark icon\.  
@@ -37,7 +37,7 @@ You can also choose the plus sign \(\+\) on the tab bar\.
 
 1. Enter your text in the lower half of the contents pane, and choose **Send**\.
 
-## Sending Email from an Alias<a name="send_alias"></a>
+## Sending email from an alias<a name="send_alias"></a>
 
 You can send and receive email using an alias that your administrator configures for you\. Recipients outside of your organization then see the sender as your alias address instead of your primary address\. For information about configuring aliases, see [Edit User Email Addresses](https://docs.aws.amazon.com/workmail/latest/adminguide/edit_user_email_addresses.html)\.
 
@@ -46,7 +46,7 @@ Sending email from an alias is not supported for EWS clients or ActiveSync mobil
 
 If you send an email from an alias to someone in your organization, the message is still received from your primary address\.
 
-For information about sending email as a delegate, see [Working with Delegates](delegates_overview.md)\.
+For information about sending email as a delegate, see [Working with delegates](delegates_overview.md)\.
 
 **To send an email from an alias**
 
@@ -58,7 +58,7 @@ To include a display name, use the SMTP standard format `Your Name <youralias@do
 
 1. When you're ready to send the email, choose **Send**\.
 
-## Copying or Moving Email Messages<a name="copy_move_email"></a>
+## Copying or moving email messages<a name="copy_move_email"></a>
 
 You can copy or move a message from one folder to another\.
 
@@ -77,7 +77,7 @@ The folder names directly under the dragged message are highlighted and show the
 
 1. In the **Copy/move messages** dialog box, select the destination folder and choose either **Copy** or **Move**\.
 
-## Printing Email Messages<a name="print_email"></a>
+## Printing email messages<a name="print_email"></a>
 
 If you have a printer attached to your computer and your computer is set up to print documents, you can print your messages\.
 
@@ -89,7 +89,7 @@ If you have a printer attached to your computer and your computer is set up to p
 
 1. In the contents pane, select the message to print and choose **Print** on the menu bar\.
 
-## Deleting Email Messages<a name="delete_email_message"></a>
+## Deleting email messages<a name="delete_email_message"></a>
 
 When you no longer need an email message, you can delete it\. Deleting unwanted email also helps you to free up space in your inbox\.
 

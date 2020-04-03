@@ -1,4 +1,4 @@
-# Sending Email on Behalf of Someone Else<a name="send_email_delegate"></a>
+# Sending email on behalf of someone else<a name="send_email_delegate"></a>
 
 You can send email on another user's behalf if they've made you their delegate\.
 

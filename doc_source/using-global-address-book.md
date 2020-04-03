@@ -1,4 +1,4 @@
-# Using the Global Address Book<a name="using-global-address-book"></a>
+# Using the global address book<a name="using-global-address-book"></a>
 
 You can use the Global Address Book to search for a user, change the default view, and send email to specific contacts\.
 

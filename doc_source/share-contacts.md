@@ -1,12 +1,12 @@
-# Sharing Contacts<a name="share-contacts"></a>
+# Sharing contacts<a name="share-contacts"></a>
 
 You can share your contacts with other users, and view contacts that have been shared with you\.
 
 **Topics**
-+ [Sharing Contacts with Other Users](#share_your_contacts)
-+ [Opening Shared Contacts](#open_shared_contacts)
++ [Sharing contacts with other users](#share_your_contacts)
++ [Opening shared contacts](#open_shared_contacts)
 
-## Sharing Contacts with Other Users<a name="share_your_contacts"></a>
+## Sharing contacts with other users<a name="share_your_contacts"></a>
 
 You can give another user permission to view your contacts\.
 
@@ -22,7 +22,7 @@ You can give another user permission to view your contacts\.
 
 1. On the **Permissions** tab, select the level of permissions to grant, and choose **Save**\.
 
-## Opening Shared Contacts<a name="open_shared_contacts"></a>
+## Opening shared contacts<a name="open_shared_contacts"></a>
 
 You can open contacts that other users have shared with you\.
 

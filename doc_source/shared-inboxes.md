@@ -1,14 +1,14 @@
-# Working with Shared and Full Access Inboxes<a name="shared-inboxes"></a>
+# Working with shared and full access inboxes<a name="shared-inboxes"></a>
 
 You can open inboxes that other users share with you or that your administrator grants you permission to access\.
 
-For information about sharing your inbox with another user, see [Sharing Your Inbox with Another User](share_your_inbox.md)\.
+For information about sharing your inbox with another user, see [Sharing your inbox with another user](share_your_inbox.md)\.
 
 **Topics**
-+ [Opening Shared Inboxes](#open_shared_inbox)
-+ [Opening Full Access Inboxes](#open_full_access_mailbox)
++ [Opening shared inboxes](#open_shared_inbox)
++ [Opening full access inboxes](#open_full_access_mailbox)
 
-## Opening Shared Inboxes<a name="open_shared_inbox"></a>
+## Opening shared inboxes<a name="open_shared_inbox"></a>
 
 You can open an inbox that another user has shared with you\.
 
@@ -34,7 +34,7 @@ To change folder permissions, in the navigation pane, right\-click the folder, c
 
 1. To close a shared folder, open the context \(right\-click\) menu for the shared folder, and choose **Close store**\.
 
-## Opening Full Access Inboxes<a name="open_full_access_mailbox"></a>
+## Opening full access inboxes<a name="open_full_access_mailbox"></a>
 
 You can open all the folders in an inbox for which your administrator has given you full access\.
 

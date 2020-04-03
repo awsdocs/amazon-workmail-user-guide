@@ -1,4 +1,4 @@
-# Sharing Your Inbox with Another User<a name="share_your_inbox"></a>
+# Sharing your inbox with another user<a name="share_your_inbox"></a>
 
 You can give another user permissions to view your inbox\.
 

@@ -1,12 +1,12 @@
-# Sharing Calendars<a name="share-calendars"></a>
+# Sharing calendars<a name="share-calendars"></a>
 
 You can share your calendar with other users, and view calendars that have been shared with you\.
 
 **Topics**
-+ [Sharing Calendars with Other Users](#share_your_calendar)
-+ [Opening Shared Calendars](#share_calendar)
++ [Sharing calendars with other users](#share_your_calendar)
++ [Opening shared calendars](#share_calendar)
 
-## Sharing Calendars with Other Users<a name="share_your_calendar"></a>
+## Sharing calendars with other users<a name="share_your_calendar"></a>
 
 You can give another user permission to view your calendar\.
 
@@ -28,7 +28,7 @@ You can give another user permission to view your calendar\.
 
 1. Choose **Ok**, and then choose **Ok** again\.
 
-## Opening Shared Calendars<a name="share_calendar"></a>
+## Opening shared calendars<a name="share_calendar"></a>
 
 You can set permissions on your calendar and share it with other users\.
 

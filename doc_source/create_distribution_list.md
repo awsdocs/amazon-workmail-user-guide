@@ -1,4 +1,4 @@
-# Creating Distribution Lists<a name="create_distribution_list"></a>
+# Creating distribution lists<a name="create_distribution_list"></a>
 
 You can create a distribution list \(such as sales\) that includes all of the people in a group\.
 

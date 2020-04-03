@@ -1,4 +1,4 @@
-# Setting Up macOS Apps for Amazon WorkMail<a name="connect_mac_mail"></a>
+# Setting up macOS apps for Amazon WorkMail<a name="connect_mac_mail"></a>
 
 If you use macOS, you can add your Amazon WorkMail account to use with macOS apps such as Mail, Calendar, Contacts, Reminders, and Notes\.
 

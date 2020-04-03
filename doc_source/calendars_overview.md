@@ -1,4 +1,4 @@
-# Working with Calendars<a name="calendars_overview"></a>
+# Working with calendars<a name="calendars_overview"></a>
 
 You can create both appointments and meetings in the Amazon WorkMail web application\. 
 
@@ -9,6 +9,6 @@ A meeting is an item in your calendar that has more than one participant\. As so
 You can share your calendar with other users, and open calendars that have been shared with you\.
 
 **Topics**
-+ [Managing Calendars](manage-calendars.md)
-+ [Working with Calendar Settings](calendar-settings.md)
-+ [Sharing Calendars](share-calendars.md)
++ [Managing calendars](manage-calendars.md)
++ [Working with calendar settings](calendar-settings.md)
++ [Sharing calendars](share-calendars.md)

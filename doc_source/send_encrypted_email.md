@@ -1,4 +1,4 @@
-# Sending Encrypted or Signed Email<a name="send_encrypted_email"></a>
+# Sending encrypted or signed email<a name="send_encrypted_email"></a>
 
 With S/MIME, you can send signed or encrypted emails inside and outside of your organization\. After you configure S/MIME in the email client settings, all emails that you send are automatically signed\. Encryption options depend on different email clients and respective platforms\. 
 

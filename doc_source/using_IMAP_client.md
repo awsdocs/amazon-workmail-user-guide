@@ -1,9 +1,9 @@
-# Setting Up an IMAP Client for Amazon WorkMail<a name="using_IMAP_client"></a>
+# Setting up an IMAP client for Amazon WorkMail<a name="using_IMAP_client"></a>
 
 You can connect any IMAP\-compatible client software to Amazon WorkMail by providing the following information\.
 
 **Note**  
-If you are using the web client, Microsoft Outlook, an Android or iOS mobile device, or a mail app for Windows 10 or macOS, see [Setting Up Email Clients for Amazon WorkMail](clients.md) for guidelines specific to your client\.
+If you are using the web client, Microsoft Outlook, an Android or iOS mobile device, or a mail app for Windows 10 or macOS, see [Setting up email clients for Amazon WorkMail](clients.md) for guidelines specific to your client\.
 
 
 | Required Information | Description | 

@@ -1,4 +1,4 @@
-# Working with Email Rules<a name="email-rules"></a>
+# Working with email rules<a name="email-rules"></a>
 
 Use email rules to route emails from your mailbox in Amazon WorkMail\. You can forward or redirect emails to external email addresses and to Amazon WorkMail users, resources, or groups, but not to personal distribution lists in your **Contacts** folder\. 
 

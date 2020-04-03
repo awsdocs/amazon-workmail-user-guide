@@ -1,19 +1,19 @@
-# Managing Calendars<a name="manage-calendars"></a>
+# Managing calendars<a name="manage-calendars"></a>
 
 Create, update, and print appointments and meetings from your calendar\. You can also cancel, decline, and delete calendar events\.
 
-If another user has made you their delegate, you can schedule meetings on their behalf\. For more information, see [Scheduling Meetings on Behalf of Someone Else](schedule_meeting_delegate.md)\.
+If another user has made you their delegate, you can schedule meetings on their behalf\. For more information, see [Scheduling meetings on behalf of someone else](schedule_meeting_delegate.md)\.
 
 **Topics**
-+ [Creating Appointments](#create_appointment)
-+ [Creating Meeting Requests](#create_meeting_request)
-+ [Editing Meetings and Appointments](#edit_meeting_appointment)
-+ [Moving Meetings and Appointments](#move_meeting_appointment)
-+ [Canceling or Declining Meeting Requests](#cancel_decline_meeting)
-+ [Printing Calendar Items](#print_calendar_items)
-+ [Deleting Meetings and Appointments](#delete_meeting_appointment)
++ [Creating appointments](#create_appointment)
++ [Creating meeting requests](#create_meeting_request)
++ [Editing meetings and appointments](#edit_meeting_appointment)
++ [Moving meetings and appointments](#move_meeting_appointment)
++ [Canceling or declining meeting requests](#cancel_decline_meeting)
++ [Printing calendar items](#print_calendar_items)
++ [Deleting meetings and appointments](#delete_meeting_appointment)
 
-## Creating Appointments<a name="create_appointment"></a>
+## Creating appointments<a name="create_appointment"></a>
 
 You can create an appointment and set a reminder that automatically reminds you before the appointment's start date and time\.
 
@@ -33,7 +33,7 @@ You can create an appointment and set a reminder that automatically reminds you 
 **Tip**  
 You can also create an appointment by double\-clicking in the calendar\.
 
-## Creating Meeting Requests<a name="create_meeting_request"></a>
+## Creating meeting requests<a name="create_meeting_request"></a>
 
 You can create a meeting request that includes attendees and resources, and set a reminder to remind you before the meeting starts\.
 
@@ -55,7 +55,7 @@ You can create a meeting request that includes attendees and resources, and set 
 
 1. Choose **Send invitation**\.
 
-## Editing Meetings and Appointments<a name="edit_meeting_appointment"></a>
+## Editing meetings and appointments<a name="edit_meeting_appointment"></a>
 
 You can edit a meeting or an appointment to make changes\.
 
@@ -69,7 +69,7 @@ You can edit a meeting or an appointment to make changes\.
    + To save your changes and send an update to the other participants, choose **Send invitation**\.
    + To save your changes to the meeting without sending an update to the other participants, choose **Save**\.
 
-## Moving Meetings and Appointments<a name="move_meeting_appointment"></a>
+## Moving meetings and appointments<a name="move_meeting_appointment"></a>
 
 You can move a meeting or appointment by clicking it and dragging it to a different day or time\. You can also edit the meeting or appointment to move it\.
 
@@ -83,7 +83,7 @@ You can move a meeting or appointment by clicking it and dragging it to a differ
 
 1. For a meeting, if prompted to send an update to attendees, choose **Yes**\.
 
-## Canceling or Declining Meeting Requests<a name="cancel_decline_meeting"></a>
+## Canceling or declining meeting requests<a name="cancel_decline_meeting"></a>
 
 You can cancel or decline a scheduled meeting\.
 
@@ -99,7 +99,7 @@ You can cancel or decline a scheduled meeting\.
    + To send a message along with your response, choose **Edit the cancellation before sending**, **OK**\.
    + To send your response without comments, choose **Send the cancellation now**, **OK**\.
 
-## Printing Calendar Items<a name="print_calendar_items"></a>
+## Printing calendar items<a name="print_calendar_items"></a>
 
 You can print a single appointment or meeting, or overviews of a certain time period, such as five or seven days\.
 
@@ -119,7 +119,7 @@ You can print a single appointment or meeting, or overviews of a certain time pe
 **Note**  
 You can print overviews from your work week \(5 days\) and the entire week \(7 days\)\.
 
-## Deleting Meetings and Appointments<a name="delete_meeting_appointment"></a>
+## Deleting meetings and appointments<a name="delete_meeting_appointment"></a>
 
 You can delete a meeting or appointment that you no longer plan to hold or attend\.
 

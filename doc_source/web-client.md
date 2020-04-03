@@ -1,4 +1,4 @@
-# Signing in to the Amazon WorkMail Web Client<a name="web-client"></a>
+# Signing in to the Amazon WorkMail web client<a name="web-client"></a>
 
 Amazon WorkMail has a web\-based client that you use to access your Amazon WorkMail account from a web browser\. The Amazon WorkMail web client includes integrated applications, such as Mail, Calendar, and Contacts\. To get started with the Amazon WorkMail web client, you need a broadband internet connection and the latest version of one of the following web browsers:
 + Google Chrome
@@ -22,7 +22,7 @@ Do not enter your full email address\. User names are case\-sensitive\.
 
 1. Choose **Sign In**\.
 
-## Changing Amazon WorkMail Web Client Settings<a name="settings_overview"></a>
+## Changing Amazon WorkMail web client settings<a name="settings_overview"></a>
 
 You can change many of the default settings for the Amazon WorkMail web client\.
 
@@ -36,7 +36,7 @@ You can change many of the default settings for the Amazon WorkMail web client\.
 
 For more information about changing specific settings, see the following topics\.
 
-## General Settings<a name="general_tab"></a>
+## General settings<a name="general_tab"></a>
 
 View mailbox usage and set your password, preferred language, and default address book from the **General** tab using the following settings\.
 
@@ -54,7 +54,7 @@ Shows the current amount of storage space used\. To reduce your mailbox size you
 To select a default address book, in **Select Default Folder**, select the address book to use\.  
 The default address book is loaded when choosing **Address book** from the main menu bar or when selecting the To, Cc, or Bcc field when composing a new email\.
 
-## Email Settings<a name="email_tab"></a>
+## Email settings<a name="email_tab"></a>
 
 Change email preview, formatting, font, and other options from the **Email** tab using the following settings\.
 
@@ -84,7 +84,7 @@ Select whether Amazon WorkMail should always send a read receipt, never send a r
 You can create several signatures for different purposes\. For example, you can create a signature for business and one for private use, or create a long signature one for new emails and a short signature for replies and forwards\.  
 After you have created one or more signatures, you can \(optionally\) specify which one to use for new messages and which one to use for replies and forwards\.
 
-## Email Rules Settings<a name="email_filters_tab"></a>
+## Email rules settings<a name="email_filters_tab"></a>
 
 Email rules can help you focus on important emails and keep your inbox tidy\. Rules are stored on the server so that they can filter the mail before it arrives in your inbox\.
 
@@ -100,7 +100,7 @@ You can construct complex rules to deal with large email volumes or complex work
 
 You can set various conditions and actions that Amazon WorkMail performs on every message that meets the criteria you define\.
 
-## Automatic Response Settings<a name="automatic_response_tab"></a>
+## Automatic response settings<a name="automatic_response_tab"></a>
 
 Mark yourself in or out of the office from the **Automatic Response** tab\. Specify the message that is sent automatically in reply to all incoming messages while you are away\.
 
@@ -108,7 +108,7 @@ To prevent someone who is sending you several emails per day from getting a repl
 
 When **Automatic response** is enabled, and you sign on to the Amazon WorkMail web client, a warning message is shown to remind you that the **Automatic response** is set\. The warming message prompts you to turn it off\.
 
-## Calendar Settings<a name="calendar_tab"></a>
+## Calendar settings<a name="calendar_tab"></a>
 
 Set your calendar format, default reminder time, and other options using the following settings\.
 

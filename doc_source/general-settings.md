@@ -1,8 +1,8 @@
-# Working with General and Email Settings<a name="general-settings"></a>
+# Working with general and email settings<a name="general-settings"></a>
 
 You can modify the default and email settings in the Amazon WorkMail web application\.
 
-## General Settings<a name="general"></a>
+## General settings<a name="general"></a>
 
 The general settings have the following defaults, which can be modified\.
 + **Date format** \- **English \(US\)**
@@ -37,7 +37,7 @@ The general settings have the following defaults, which can be modified\.
 **Note**  
 Restart Amazon WorkMail to have the date format and keyboard shortcut changes take effect\.
 
-## Email Settings<a name="email-settings"></a>
+## Email settings<a name="email-settings"></a>
 
 Email settings have the following defaults, which can be modified\.
 + **Display preview pane** \- Right

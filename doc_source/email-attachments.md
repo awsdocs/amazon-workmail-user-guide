@@ -1,13 +1,13 @@
-# Working with Attachments<a name="email-attachments"></a>
+# Working with attachments<a name="email-attachments"></a>
 
 When sending an email, you can attach files from your hard drive or Amazon WorkDocs\. You can also download email attachments to your hard drive or Amazon WorkDocs\.
 
 **Topics**
-+ [Adding Attachments to Email Messages](#attach-how)
-+ [Downloading Attachments](#download_attachments)
-+ [Unsupported Attachment Types](#unsupported-attachments)
++ [Adding attachments to email messages](#attach-how)
++ [Downloading attachments](#download_attachments)
++ [Unsupported attachment types](#unsupported-attachments)
 
-## Adding Attachments to Email Messages<a name="attach-how"></a>
+## Adding attachments to email messages<a name="attach-how"></a>
 
 To attach a file, create an email message, then choose **Attach**\.
 
@@ -24,7 +24,7 @@ If your IT administrator has enabled you to use Amazon WorkDocs, you can add fil
 **Note**  
 The total size of the attached files can’t exceed 25 MB\.
 
-## Downloading Attachments<a name="download_attachments"></a>
+## Downloading attachments<a name="download_attachments"></a>
 
 You can download attachments that you've received and save them to your hard drive\.
 
@@ -42,7 +42,7 @@ If your IT administrator has enabled you to use Amazon WorkDocs, you can also sa
 
 1. Open the attachment and choose **Save to WorkDocs**\. The file is saved to your **My Documents** folder in Amazon WorkDocs\.
 
-## Unsupported Attachment Types<a name="unsupported-attachments"></a>
+## Unsupported attachment types<a name="unsupported-attachments"></a>
 
 The following attachment types aren't supported:
 

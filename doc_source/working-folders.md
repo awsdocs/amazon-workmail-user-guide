@@ -1,4 +1,4 @@
-# Working with Folders<a name="working-folders"></a>
+# Working with folders<a name="working-folders"></a>
 
 You can create folders to organize your email, contacts, and calendar items\.
 

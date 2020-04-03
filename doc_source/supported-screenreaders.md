@@ -1,4 +1,4 @@
-# Supported Screen Readers<a name="supported-screenreaders"></a>
+# Supported screen readers<a name="supported-screenreaders"></a>
 
 You can use the following browser\-based screen readers with Amazon WorkMail:
 + Firefox \- NVDA
@@ -15,4 +15,4 @@ The following exceptions apply only to VoiceOver:
 **VO\+Left/Right** arrows replace **Tab** and **Shift\+Tab**\.
 **Fn\+Delete** replaces **Delete**\.
 
-For best accessibility, use plain text as the email format and disable the **Preview** pane\. For information, see the *Email settings* section in [Working with General and Email Settings](general-settings.md)\.
+For best accessibility, use plain text as the email format and disable the **Preview** pane\. For information, see the *Email settings* section in [Working with general and email settings](general-settings.md)\.

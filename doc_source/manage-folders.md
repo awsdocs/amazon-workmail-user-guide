@@ -1,16 +1,16 @@
-# Managing Folders<a name="manage-folders"></a>
+# Managing folders<a name="manage-folders"></a>
 
 You can organize and manage your folders by creating new folders or copying, moving, renaming, or deleting existing ones\. You can also mark all the items in a folder as read or unread, empty your Deleted Items folder, and view the size of a folder to see how much storage space it takes up\.
 
 **Topics**
-+ [Creating New Folders](#create_folder)
-+ [Copying, Moving, or Renaming Folders](#copy_move_rename_folder)
-+ [Deleting Folders](#delete_folder)
-+ [Emptying the Deleted Items Folder](#empty_deleted_items)
-+ [Marking Items as Read or Unread](#mark_items_read_unread)
-+ [Viewing Folder Size](#view_folder_size)
++ [Creating new folders](#create_folder)
++ [Copying, moving, or renaming folders](#copy_move_rename_folder)
++ [Deleting folders](#delete_folder)
++ [Emptying the Deleted Items folder](#empty_deleted_items)
++ [Marking items as read or unread](#mark_items_read_unread)
++ [Viewing folder size](#view_folder_size)
 
-## Creating New Folders<a name="create_folder"></a>
+## Creating new folders<a name="create_folder"></a>
 
 Create folders to organize your email, contacts, and calendar items\.
 
@@ -26,7 +26,7 @@ Create folders to organize your email, contacts, and calendar items\.
 
 1. For **Select where to place the folder**, select the target location and choose **OK**\.
 
-## Copying, Moving, or Renaming Folders<a name="copy_move_rename_folder"></a>
+## Copying, moving, or renaming folders<a name="copy_move_rename_folder"></a>
 
 You can copy, move, and rename folders\.
 
@@ -44,7 +44,7 @@ You can copy, move, and rename folders\.
 
 1. Enter a new name for the folder\.
 
-## Deleting Folders<a name="delete_folder"></a>
+## Deleting folders<a name="delete_folder"></a>
 
 You can delete a folder that you no longer need\. Deleting a folder also deletes any items in the folder\.
 
@@ -54,7 +54,7 @@ You can delete a folder that you no longer need\. Deleting a folder also deletes
 
 1. In the navigation pane, open the context \(right\-click\) menu for the folder, and choose **Delete**\.
 
-## Emptying the Deleted Items Folder<a name="empty_deleted_items"></a>
+## Emptying the Deleted Items folder<a name="empty_deleted_items"></a>
 
 If your inbox is full and you're out of space, you can empty the Deleted Items folder to free up space\. When you empty the Deleted Items folder, you cannot recover or undelete those items\.
 
@@ -64,7 +64,7 @@ If your inbox is full and you're out of space, you can empty the Deleted Items f
 
 1. In the navigation pane, open the context \(right\-click\) menu for the **Deleted Items** folder, and choose **Empty folder**\.
 
-## Marking Items as Read or Unread<a name="mark_items_read_unread"></a>
+## Marking items as read or unread<a name="mark_items_read_unread"></a>
 
 You can mark all items in a folder as read or unread\.
 
@@ -82,7 +82,7 @@ You can mark all items in a folder as read or unread\.
 
 1. In the contents pane, select all items in the folder, open the context \(right\-click\), and then choose **Mark Unread**\.
 
-## Viewing Folder Size<a name="view_folder_size"></a>
+## Viewing folder size<a name="view_folder_size"></a>
 
 You can view a folder's size to see how much storage space it takes up\.
 

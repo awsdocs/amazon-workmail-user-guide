@@ -1,13 +1,13 @@
-# Working with Calendar Settings<a name="calendar-settings"></a>
+# Working with calendar settings<a name="calendar-settings"></a>
 
 View your calendar by day, work week, week, or month\. You can also view multiple calendars and update other calendar settings\.
 
 **Topics**
-+ [Changing Your Calendar View](#change_calendar_view)
-+ [Changing Calendar Settings](#change_calendar_settings)
-+ [Viewing Multiple Calendars](#multiple_calendars)
++ [Changing your calendar view](#change_calendar_view)
++ [Changing calendar settings](#change_calendar_settings)
++ [Viewing multiple calendars](#multiple_calendars)
 
-## Changing Your Calendar View<a name="change_calendar_view"></a>
+## Changing your calendar view<a name="change_calendar_view"></a>
 
 You can switch the calendar layout to view appointments by day, work week, week, or month\.
 
@@ -17,7 +17,7 @@ You can switch the calendar layout to view appointments by day, work week, week,
 
 1. In the navigation pane, choose **Day**, **Workweek**, **Week**, or **Month**\.
 
-## Changing Calendar Settings<a name="change_calendar_settings"></a>
+## Changing calendar settings<a name="change_calendar_settings"></a>
 
 You can change the default settings for the calendar\.
 
@@ -29,7 +29,7 @@ You can change the default settings for the calendar\.
 
 1. In the contents pane, update the settings as appropriate\.
 
-## Viewing Multiple Calendars<a name="multiple_calendars"></a>
+## Viewing multiple calendars<a name="multiple_calendars"></a>
 
 You can open multiple calendars in a single overview\. You can open the calendars side by side or in an overlay to see the calendars transparently stacked on top of each other\. By default, the calendars are opened side by side\.
 
