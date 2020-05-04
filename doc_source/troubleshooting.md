@@ -13,3 +13,5 @@ If your session has expired on the server and you are no longer logged in to the
 
 **Mail cannot be saved**  
 If your email gets stuck in your outbox and doesn't get sent, Amazon WorkMail displays this error message\. This may be due to a network issue\. Try saving the email again to resolve this error\.
+
+If your Amazon WorkMail administrator asks for email headers to help troubleshoot an email issue, you can copy and paste the email headers from your email to send to them\. For more information, see [Viewing email headers](https://docs.aws.amazon.com/workmail/latest/adminguide/manage-mailboxes.html#email-headers) in the *Amazon WorkMail Administrator Guide*\.

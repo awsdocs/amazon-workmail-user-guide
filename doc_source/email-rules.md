@@ -29,6 +29,8 @@ The **is sent to** email rule is only activated when the indicated recipients ar
 
 1. For **Rule name**, enter a name, and select **Active rule**\.
 
+1. For **Conditions**, choose the conditions for the rule, such as **is sent only to me**\.
+
 1. For **Actions**, choose **Forward the message to**, **Select recipient\(s\)**\. Enter the email addresses to forward email to, and choose **To**, **OK**\.
 
    1. Optionally, choose additional actions, such as **Delete the message** or **Move message to folder**\.
