@@ -79,3 +79,5 @@ If you allow **Email encryption cert**, when you send an email, the app loads an
 
 **Note**  
 To send an encrypted email to the group, manually expand the group\.
+
+AWS Certificate Manager does not currently provide certificates to sign and encrypt e-mail.  You will need to use a third\-party certificate authority to obtain a p12 certificate.   
