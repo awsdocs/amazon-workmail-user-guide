@@ -1,13 +1,13 @@
 # Sending encrypted or signed email<a name="send_encrypted_email"></a>
 
-With S/MIME, you can send signed or encrypted emails inside and outside of your organization\. After you configure S/MIME in the email client settings, all emails that you send are automatically signed\. Encryption options depend on different email clients and respective platforms\. 
+With S/MIME, you can send signed or encrypted emails inside and outside of your organization\. After you configure S/MIME in the email client settings, all emails that you send are automatically signed\. Encryption options depend on different email clients and respective platforms\. The Amazon WorkMail web app client is not supported\.
 
 **Note**  
-The Amazon WorkMail web app client is not supported\.
+AWS Certificate Manager does not currently provide certificates to sign and encrypt email\. Get the certificate \(`*.p12`\) file from your administrator or a third\-party certificate authority\.   
 
 **To configure S/MIME in Windows Outlook**
 
-1. Get the certificate \(`*.p12`\) file from your administrator or third\-party provider and save it to a folder\.
+1. Get the certificate \(`*.p12`\) file from your administrator or third\-party certificate authority and save it to a folder\.
 
 1. Right\-click the file and choose **Install PFX**\.
 
@@ -31,7 +31,7 @@ The Amazon WorkMail web app client is not supported\.
 
 **To configure S/MIME in iOS Mail**
 
-1. Get the certificate \(`*.p12`\) file from your administrator or third\-party provider in an email\.
+1. Get the certificate \(`*.p12`\) file from your administrator or third\-party certificate authority in an email\.
 
 1. Open the email attachment and choose **Install**\.
 
@@ -45,7 +45,7 @@ The Amazon WorkMail web app client is not supported\.
 
 **To configure S/MIME in Android Nine and the Samsung Mobile devices native mail app**
 
-1. Get the certificate \(`*.pfx` or `*.p12`\) file from your administrator or third\-party provider in an email\.
+1. Get the certificate \(`*.pfx` or `*.p12`\) file from your administrator or third\-party certificate authority in an email\.
 
 1. Download the attached certificates\.
 
@@ -61,7 +61,7 @@ If you allow **Email encryption cert**, when you send an email, the app loads an
 
 1. Install the certificate on macOS:
 
-   1. Get the certificate \(`*.p12`\) file from your administrator or third party provider, and save the file to a folder\.
+   1. Get the certificate \(`*.p12`\) file from your administrator or third\-party certificate authority, and save the file to a folder\.
 
    1. Double\-click the certificate file to open **Keychain Access** and approve to add the certificate to your keychain\.
 
@@ -73,11 +73,10 @@ If you allow **Email encryption cert**, when you send an email, the app loads an
    + To sign all outgoing messages by default, choose **Sign outgoing messages**\.
    + To encrypt all outgoing messages by default, choose **Encrypt outgoing messages**\.
    + To make sure that your signed message can be viewed by all recipients and mail applications, choose **Send digitally signed messages as clear text**\.
-   +  To enable recipients to send encrypted messages to you, choose **Include my certificates in signed messages**\.
+   + To enable recipients to send encrypted messages to you, choose **Include my certificates in signed messages**\.
 
 1. Choose **OK**\.
 
 **Note**  
 To send an encrypted email to the group, manually expand the group\.
 
-AWS Certificate Manager does not currently provide certificates to sign and encrypt e-mail.  You will need to use a third\-party certificate authority to obtain a p12 certificate.   
