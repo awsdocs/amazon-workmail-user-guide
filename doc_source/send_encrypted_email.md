@@ -5,7 +5,6 @@ With S/MIME, you can send signed or encrypted emails inside and outside of your 
 **Note**  
 AWS Certificate Manager does not currently provide certificates to sign and encrypt email\. Get the certificate \(`*.p12`\) file from your administrator or a third\-party certificate authority\.
 
-
 **To configure S/MIME in Windows Outlook**
 
 1. Get the certificate \(`*.p12`\) file from your administrator or third\-party certificate authority and save it to a folder\.
@@ -80,4 +79,3 @@ If you allow **Email encryption cert**, when you send an email, the app loads an
 
 **Note**  
 To send an encrypted email to the group, manually expand the group\.
-

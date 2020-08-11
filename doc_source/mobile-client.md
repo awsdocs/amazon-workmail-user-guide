@@ -49,7 +49,7 @@ If your organization has enabled mobile device management, you may be required t
    + In iOS 11 and later, enter your Amazon WorkMail email address and a description for the account\. Choose **Next**, **Sign in**, and enter the password associated with your email address\.
    + In older versions, enter your Amazon WorkMail email address, password, a description for the account, and choose **Next**\.
 **Note**  
-In iOS 11 and later, automatic configuration works if you use your organization's *alias*\.awsapps\.com complementary domain, or if you use a customer domain with Autodiscover Phase 2 that is configured for the domain\. For more information, see [Use AutoDiscover to configure endpoints](https://docs.aws.amazon.com/workmail/latest/adminguide/autodiscover.html)\.
+In iOS 11 and later, automatic configuration works if you use your organization's *alias*\.awsapps\.com complementary domain, or if you use a customer domain with AutoDiscover Phase 2 that is configured for the domain\. For more information, see [Use AutoDiscover to configure endpoints](https://docs.aws.amazon.com/workmail/latest/adminguide/autodiscover.html)\.
 
 1. Do one of the following:
    + In the Exchange confirmation dialog box, select the items to synchronize with your device, and then choose **Save**\.
@@ -57,7 +57,7 @@ In iOS 11 and later, automatic configuration works if you use your organization'
 
 ## Manually connect your mobile device<a name="manually_connect_device"></a>
 
-If your mobile device doesn't support auto\-discover or if automatic configuration failed, you can manually configure the client by providing the following information:
+If your mobile device doesn't support AutoDiscover or if automatic configuration failed, you can manually configure the client by providing the following information\.
 
 
 | Required Information | Description | 

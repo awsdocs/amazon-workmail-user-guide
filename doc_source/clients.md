@@ -13,4 +13,4 @@ To help protect your computer from malicious email attachments, we recommend tha
 + [Setting up mobile device clients for Amazon WorkMail](mobile-client.md)
 + [Setting up the Windows 10 Mail app for Amazon WorkMail](connect_win10_mail.md)
 + [Setting up macOS apps for Amazon WorkMail](connect_mac_mail.md)
-+ [Setting up an IMAP client for Amazon WorkMail](using_IMAP_client.md)
++ [Setting up IMAP for Amazon WorkMail](using_IMAP.md)

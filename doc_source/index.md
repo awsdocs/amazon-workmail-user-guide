@@ -21,7 +21,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Setting up mobile device clients for Amazon WorkMail](mobile-client.md)
    + [Setting up the Windows 10 Mail app for Amazon WorkMail](connect_win10_mail.md)
    + [Setting up macOS apps for Amazon WorkMail](connect_mac_mail.md)
-   + [Setting up an IMAP client for Amazon WorkMail](using_IMAP_client.md)
+   + [Setting up IMAP for Amazon WorkMail](using_IMAP.md)
 + [Working with email](email_overview.md)
    + [Working with email messages](email-messages.md)
    + [Working with email rules](email-rules.md)
