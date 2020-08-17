@@ -57,7 +57,7 @@ If you allow **Email encryption cert**, when you send an email, the app loads an
 
 1. To enable signing, choose **Sign all outgoing emails**\. Under **Email signing cert**, choose **Install**, select your certificate used for signing your email message, and then choose **Allow**\.
 
-**To configure S/MIME in Outlook for Mac 2016**
+**To configure S/MIME in Outlook 2016 for Mac**
 
 1. Install the certificate on macOS:
 

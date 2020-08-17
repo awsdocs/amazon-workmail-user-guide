@@ -2,6 +2,9 @@
 
 You can share email folders with other Amazon WorkMail users and open folders that have been shared with you\. You can also view, change, or remove folder permissions for a shared folder\.
 
+**Note**  
+If you share a folder with a user that has **Read** permissions, that user can view everything in the folder, potentially including items marked **Private**\.
+
 **Topics**
 + [Sharing email folders with other users](#share_email_folder)
 + [Opening shared email folders](#shared_folder)

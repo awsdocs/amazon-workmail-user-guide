@@ -2,6 +2,9 @@
 
 You can share your contacts with other users, and view contacts that have been shared with you\.
 
+**Note**  
+If you share your contacts with a user that has **Read** permissions, that user can view all of your contacts, potentially including contacts marked **Private**\.
+
 **Topics**
 + [Sharing contacts with other users](#share_your_contacts)
 + [Opening shared contacts](#open_shared_contacts)

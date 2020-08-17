@@ -7,6 +7,7 @@ If you are notified that you have reached 90 percent of your mailbox quota, you 
 **Topics**
 + [Sending email messages](#create_send_email)
 + [Sending email from an alias](#send_alias)
++ [Sending email to a subaddress](#email-sub-address)
 + [Copying or moving email messages](#copy_move_email)
 + [Printing email messages](#print_email)
 + [Deleting email messages](#delete_email_message)
@@ -54,9 +55,23 @@ For information about sending email as a delegate, see [Working with delegates](
 
 1. For **From**, type the alias from which to send email\.
 **Tip**  
-To include a display name, use the SMTP standard format `Your Name <youralias@domain.com>`\.
+To include a display name, use the SMTP standard format `Your Name <youralias@example.com>`\.
 
 1. When you're ready to send the email, choose **Send**\.
+
+## Sending email to a subaddress<a name="email-sub-address"></a>
+
+You can add a **\+** tag to your Amazon WorkMail email address to help filter your incoming email messages\. This is also known as subaddressing\.
+
+To send emails to a subaddress, add the **\+** sign followed by a text string of your choice to the first part of your Amazon WorkMail email address\. The following example shows how to add a **\+sales** tag to a standard email address \(jdoe@example\.com\), converting it to a subaddress\.
+
+```
+jdoe+sales@example.com
+```
+
+In the preceding example, the recipient can use the **\+sales** tag to filter the email messages sent to the subaddress\. Amazon WorkMail recognizes text after the first **\+** sign as a subaddress\. If a sender adds a **\+** tag that matches an existing email address in your organization, that email message is sent to the existing email address\. Amazon WorkMail allows **\+** signs in email addresses as well as subaddresses\.
+
+You can't send email messages from a subaddress\. Instead, contact your administrator to create an alias for you\. For more information, see [Sending email from an alias](#send_alias)\.
 
 ## Copying or moving email messages<a name="copy_move_email"></a>
 

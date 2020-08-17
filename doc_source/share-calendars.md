@@ -2,6 +2,9 @@
 
 You can share your calendar with other users, and view calendars that have been shared with you\.
 
+**Note**  
+If you share a calendar with a user that has **Read** permissions, that user can view everything in the calendar, potentially including items marked **Private**\.
+
 **Topics**
 + [Sharing calendars with other users](#share_your_calendar)
 + [Opening shared calendars](#share_calendar)
