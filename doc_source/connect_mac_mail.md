@@ -8,7 +8,7 @@ If you use macOS, you can add your Amazon WorkMail account to use with macOS app
 
 1. Choose **Internet Accounts**\.
 
-1. Choose **Exchange**\.
+1. Choose **Microsoft Exchange**\.
 
 1. Do one of the following:
    + **If using macOS Mojave or later version** – Enter your full name and email address, choose **Sign In**, then choose **Configure Manually** or **Sign In**\. Enter your password and choose **Sign In**\.
