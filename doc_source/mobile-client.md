@@ -68,3 +68,5 @@ If your mobile device doesn't support AutoDiscover or if automatic configuration
 |  **User name**  |  Email address associated with your Amazon WorkMail account  | 
 |  **Password**  |  Your password  | 
 |  **Server**  |  The endpoint matching the AWS Region where your mailbox is located: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/workmail/latest/userguide/mobile-client.html)  If you don't know the AWS Region where your mailbox is located, contact your system administrator\.   | 
+
+1. After attempting everything explained above and you are still unable to access email on your iOS mobile device, you need to configure access using IMAP. [\[See the IMAP guide for more details\]](https://docs.aws.amazon.com/workmail/latest/userguide/using_IMAP.html).
