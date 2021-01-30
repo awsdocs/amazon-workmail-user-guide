@@ -55,6 +55,8 @@ In iOS 11 and later, automatic configuration works if you use your organization'
    + In the Exchange confirmation dialog box, select the items to synchronize with your device, and then choose **Save**\.
    + If your account cannot be found, you are prompted to provide the name of your Exchange server, domain, user name, and password\. For more information, see [Manually connect your mobile device](#manually_connect_device)\.
 
+1. If, after attempting everything outlined above, you are still unable to access email on your iOS mobile device, you need to configure access using IMAP. [\[See the IMAP guide for more details\]](https://docs.aws.amazon.com/workmail/latest/userguide/using_IMAP.html).
+
 ## Manually connect your mobile device<a name="manually_connect_device"></a>
 
 If your mobile device doesn't support AutoDiscover or if automatic configuration failed, you can manually configure the client by providing the following information\.
@@ -68,5 +70,3 @@ If your mobile device doesn't support AutoDiscover or if automatic configuration
 |  **User name**  |  Email address associated with your Amazon WorkMail account  | 
 |  **Password**  |  Your password  | 
 |  **Server**  |  The endpoint matching the AWS Region where your mailbox is located: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/workmail/latest/userguide/mobile-client.html)  If you don't know the AWS Region where your mailbox is located, contact your system administrator\.   | 
-
-1. After attempting everything explained above and you are still unable to access email on your iOS mobile device, you need to configure access using IMAP. [\[See the IMAP guide for more details\]](https://docs.aws.amazon.com/workmail/latest/userguide/using_IMAP.html).
