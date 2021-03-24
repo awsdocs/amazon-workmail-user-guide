@@ -37,13 +37,9 @@ If your organization has enabled mobile device management, you may be required t
 
 1. On your iOS device, choose **Settings**\.
 
-1. Do one of the following:
-   + Scroll down to **Passwords & Accounts**\.
-   + In older versions, scroll down to **Mail**\. 
+1. Scroll down to **Mail**\.
 
-1. Do one of the following:
-   + Choose **Add Account**, then choose **Exchange** or **Microsoft Exchange**\.
-   + In older versions, choose **Accounts**, **Add Account**, **Exchange**\.
+1. Choose **Accounts**, **Add Account**, **Microsoft Exchange**\.
 
 1. Do one of the following:
    + In iOS 11 and later, enter your Amazon WorkMail email address and a description for the account\. Choose **Next**, **Sign in**, and enter the password associated with your email address\.
@@ -65,6 +61,6 @@ If your mobile device doesn't support AutoDiscover or if automatic configuration
 |  **Type of account**  |  Exchange  | 
 |  **Protocol**  |  ActiveSync  | 
 |  **Domain**  |  Empty  | 
-|  **User name**  |  Email address associated with your Amazon WorkMail account  | 
+|  **User name** or **Domain/User name**  |  Email address associated with your Amazon WorkMail account  | 
 |  **Password**  |  Your password  | 
 |  **Server**  |  The endpoint matching the AWS Region where your mailbox is located: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/workmail/latest/userguide/mobile-client.html)  If you don't know the AWS Region where your mailbox is located, contact your system administrator\.   | 

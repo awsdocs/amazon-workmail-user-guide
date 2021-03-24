@@ -1,62 +1,68 @@
 # Working with email rules<a name="email-rules"></a>
 
-Use email rules to route emails from your mailbox in Amazon WorkMail\. You can forward or redirect emails to external email addresses and to Amazon WorkMail users, resources, or groups, but not to personal distribution lists in your **Contacts** folder\. 
+You use inbox rules to route emails from your mailbox in Amazon WorkMail\. You can forward or redirect emails to external email addresses and to Amazon WorkMail users, resources, or groups, but not to personal distribution lists in your **Contacts** folder\. 
 
 **To create an email rule**
 
-1. In the Amazon WorkMail web application, choose the gear icon\.
+1. In the Amazon WorkMail web application, choose the gear icon in the upper\-right corner of the screen\.
 
-1. Choose **Email rules**, **New**\.
+1. Choose **Email rules**, then **New**\.
 
-1. For **Rule name**, enter a name, and select **Active rule**\.
+1. In the **Rule name** box, enter a name and ensure that the **Active rule** check box is selected\.
 
-1. For **Conditions**, choose the conditions for the rule, such as **is sent only to me**\.
+1. Under **Conditions**, open the **When the message** list and choose a condition, such as **is sent only to me**\.
+
+   To add conditions, choose **Add** and select another condition from the second list\.
 **Note**  
 To match a string with special HTML characters for the condition **Includes these rules in the body**, remove any left angle brackets from the string\. This allows matching against email body text that contains HTML markup\.
 
-1. For **Actions**, choose the actions for the rule, such as **Move message to folder**\.
+1. Under **Actions**, open the **Then** list and choose an action, such as **Move message to folder**\.
+
+   To add an action, choose **Add** and select an action from the second list\.
 
 1. Choose **OK**, **Save changes**\.
 
 **Note**  
-The **is sent to** email rule is only activated when the indicated recipients are in the **To:** or **CC:** fields of the email message\.
+To use the **is sent to** email rule, the **To:** or **CC:** fields of the email message must list the recipients\.
 
 **To create an email forwarding rule**
 
-1. In the Amazon WorkMail web application, choose the gear icon\.
+1. In the Amazon WorkMail web application, choose the gear icon in the upper\-right corner of the screen\.
 
-1. Choose **Email rules**, **New**\.
+1. Choose **Email rules**, then **New**\.
 
-1. For **Rule name**, enter a name, and select **Active rule**\.
+   The **New email rule** dialog box appears\.
 
-1. For **Conditions**, choose the conditions for the rule, such as **is sent only to me**\.
+1. In the **Rule name** box, enter a name for the rule and ensure that the **Active rule** check box is selected\.
 
-1. For **Actions**, choose **Forward the message to**, **Select recipient\(s\)**\. Enter the email addresses to forward email to, and choose **To**, **OK**\.
+1. Under **Conditions**, open the **When the message** list and choose **is received from**\.
 
-   1. Optionally, choose additional actions, such as **Delete the message** or **Move message to folder**\.
+   The **Select sender\(s\)** link appears\.
 
-1. Choose **OK**, **Save changes**\.
+1. Choose **Select sender\(s\)**, choose the sender whose messages you want to forward, choose **To**, ensure that the sender's email address appears in that box, then choose **Ok**\.
+**Note**  
+To select multiple senders, press **Shift** and choose the additional senders\. If you need more conditions, choose **Add** and select another condition from the list that appears\.
 
-1. The recipient of the forwarded email sees that it was forwarded from you, and a copy of the email remains in your mailbox\.
+   When done, you return to the **New email rule** dialog box, and the sender or senders' email addresses appear in place of **Select sender\(s\)**\.
 
-Bounced emails are not forwarded\.
+1. Under **Actions**, open the **Then** list and choose **Forward the message to**, then choose the **Select recipient\(s\)** link\. Choose the recipient that you want to forward to, choose **To**, then **Ok**\. 
+
+   That returns you to the to the **New email rule** dialog box, and the sender or senders' email addresses appear in place of **Select recipient\(s\)**\.
+**Note**  
+To add an action, choose **Add** and select a condition from the second list\.
+
+1. Choose **Ok** to accept the new rule\. The rule then appears on your **email rules** page\.
+
+The recipients see that you forwarded the messages, and the system copies forwarded messages to your mailbox\. Finally, Amazon WorkMail doesn't forward bounced messages, messages rejected by a recipient's email server\.
 
 **To create an email redirect rule**
 
-1. In the Amazon WorkMail web application, choose the gear icon\.
+1. Repeat steps 1 through 3 in the previous procedure\.
 
-1. Choose **Email rules**, **New**\.
+1. Under **Conditions**, open the **When the message** list and choose **is received from**\. Choose **Select sender\(s\)** and follow the steps in the previous procedure to select one or more senders\. You can also add actions as needed\.
 
-1. For **Rule name**, enter a name, and select **Active rule**\.
+1. Under **Actions**, choose **Redirect the message to**, then **Select recipient\(s\)** and follow the steps in the previous procedure to add one or more recipients\. You can also add actions as needed\.
 
-1. For **Conditions**, choose **is sent to**, **Select recipient\(s\)**\. Enter the user account from which to redirect email, and choose **To**, **OK**\. 
+1. Follow the remaining steps in the previous procedure to save the rule\.
 
-   1. Optionally, choose additional conditions such as **received from** or **includes these words in the subject**\.
-
-1. For **Actions**, choose **Redirect the message to**, **Select recipient\(s\)**\. Enter the email addresses to redirect email to, and choose **To**, **OK**\.
-
-1. Choose **OK**, **Save changes**\.
-
-1. The recipient of the redirected email sees it as coming from the original sender\.
-
-Emails that bounce and do not pass Sender Policy Framework \(SPF\) and DomainKeys Identified Mail \(DKIM\) key checks are not redirected\.
+The recipient of the redirected email sees it as coming from the original sender\. Also, Amazon WorkMail does not redirect bounced emails—messages rejected by a recipient's email server—unless they pass certain checks\. For more information about those checks, contact your system administrator\.

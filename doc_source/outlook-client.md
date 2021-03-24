@@ -63,41 +63,42 @@ Outlook 2016 and Outlook 2019 for Windows can be configured only by using AutoDi
 Follow these steps to manually configure Office Outlook 2007, Outlook 2010, or Outlook 2013\.
 
 1. In Windows, open **Control Panel**, and choose **User Accounts and Mail \(32\-bit\)**\.
+**Note**  
+If you don't see **User Accounts and Mail \(32\-bit\)**, open the **View by** list and choose **Large icons** or **Small icons**, whichever you prefer\.
 
 1. In the **Mail Setup \- Outlook** dialog box, choose **Show Profiles**, and in the **Mail** dialog box, choose **Add**\. 
 
-1. In the **New Profile** dialog box, in the **Profile Name** field, type `WorkMail`, and choose **OK**\.
+1. In the **New Profile** dialog box, in the **Profile Name** field, enter a name for the profile and choose **OK**\.
 
-1. Choose **Manual configure server settings or additional server types**, then choose **Next**\.
+1. Choose **Manual setup or additional server types**, then choose **Next**\.
 
-1. For **Server**, type the endpoint matching the AWS Region where your mailbox is located\.
-   + us\-west\-2
+1. If it isn't already, choose **Outlook\.com or Exchange ActiveSync compatible service**, then choose **Next**\.
 
-     `outlook.mail.us-west-2.awsapps.com`
-   + us\-east\-1
+1. Fill in the fields in the **Server Settings** dialog box\.
+   + For **Your name**, enter the name that you want others to see\.
+   + For **E\-mail Address**, enter your Amazon WorkMail address\.
+   + For **Mail server**, enter the **outlook\.mail\.** server that corresponds to your mailbox's AWS Region\.
+     + us\-west\-2
 
-     `outlook.mail.us-east-1.awsapps.com`
-   + eu\-west\-1
+       `outlook.mail.us-west-2.awsapps.com`
+     + us\-east\-1
 
-     `outlook.mail.eu-west-1.awsapps.com`
+       `outlook.mail.us-east-1.awsapps.com`
+     + eu\-west\-1
+
+       `outlook.mail.eu-west-1.awsapps.com`
 **Note**  
-If you don’t know the AWS Region where your mailbox is located, contact your system administrator\.
+If you don’t know your mailbox's AWS Region, contact your system administrator\.
+   + For **User Name**, enter your Amazon WorkMail user name\.
+   + For **Password**, enter your Amazon WorkMail password\.
 
-1. For **User name**, enter your Amazon WorkMail email address, then choose **More settings**\.
+1. Optionally, choose **Remember password**\.
 
-1. On the **Security** tab, for **Logon network security**, choose **Anonymous authentication**\.
+1. Choose **Next**\.
 
-1. From the **Connection** tab, choose **Connect to Microsoft Exchange using HTTP**\.
+   Outlook tests the connection and displays a message saying your account is ready for use\.
 
-1. Choose **Exchange proxy settings**, and type the same endpoint matching the AWS Region where your mailbox is located, as you typed in step 5\.
-
-1. Select **On fast network connect use HTTP first, then connect using TCP/IP**\.
-
-1. For **Proxy authentication settings**, choose **Basic authentication**, choose **OK**, then choose **OK** again\.
-
-1. Choose **Check name**, type your Amazon WorkMail email address and password, then choose **Next**\.
-
-1. After Outlook sets up your account, you’ll see a message that says your account is ready for use\. Choose **Finish**\.
+1. Choose **Finish**\.
 
 **To manually configure Outlook for Mac 2011, Outlook 2016 for Mac, and Outlook 2019 for Mac**
 

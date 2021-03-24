@@ -44,7 +44,6 @@ Email settings have the following defaults, which can be modified\.
 + **Close email when responding** \- On
 + **Format** \- HTML
 + **Default font** \- Narrow Sans Serif
-+ **Default font size** \- Normal
 + **Always request a read receipt** \- Off
 + **Incoming mail** \- **Ask me before sending a response**
 
@@ -63,7 +62,6 @@ Email settings have the following defaults, which can be modified\.
 1. Press **Tab** to move to **Compose email**\. 
    + For **Format**, use **Alt\+Down** and the **Up/Down** arrows to toggle between **HTML** and **Plain Text**\. Press **Enter** to confirm the selection\.
    + For **Default font**, use **Alt\+Down** and the **Up/Down** arrows to scroll through the list of available fonts\. Press **Enter** to confirm the selection\.
-   + For **Default font size**, use **Alt\+Down** and the **Up/Down** arrows to choose a font display size\. Press **Enter** to confirm the selection\.
 
 1. Press **Tab** to move to the **Always request a read receipt** checkbox\. Press **Spacebar** to select or clear the box\.
 
