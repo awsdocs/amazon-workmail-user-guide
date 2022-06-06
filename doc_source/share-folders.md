@@ -6,27 +6,66 @@ You can share email folders with other Amazon WorkMail users and open folders th
 If you share a folder with a user that has **Read** permissions, that user can view everything in the folder, potentially including items marked **Private**\.
 
 **Topics**
-+ [Sharing email folders with other users](#share_email_folder)
++ [Sharing email folders](#share_email_folder)
++ [Sharing non\-standard folders](#share-non-standard)
 + [Opening shared email folders](#shared_folder)
 + [Viewing folder permissions](#view_folder_permissions)
 + [Changing folder permissions](#change_folder_permissions)
 + [Stop sharing folders](#stop_sharing_folders)
 
-## Sharing email folders with other users<a name="share_email_folder"></a>
+## Sharing email folders<a name="share_email_folder"></a>
 
-You can give another user permission to view an email folder\.
+You can give another user permission to view an email folder\. By default, Amazon WorkMail allows you to share the folders that you use the most, such as your **Inbox**, **Calendar**, and **Contacts** folders\. If you need to share a non\-standard folder, such as **Sent Items**, see [Sharing non\-standard folders](#share-non-standard)\.
 
-**To share an email folder with another user**
+**To share email folders**
 
-1. In the Amazon WorkMail web application, on the shortcut bar, choose the mail icon\.
+1. On the Amazon WorkMail shortcut bar, choose the mail icon\.
 
 1. In the navigation pane, open the context \(right\-click\) menu for the folder to share, and choose **Properties**\.
 
-1. On the **User details** page, under **Permissions**, choose **Add or remove**\.
+   The **Permissions** dialog box appears\.
 
-1. Under **Users and groups**, select the user to share your folder and choose **>>** to add them to the **Permissions** list\. Choose **Save**\.
+1. Choose the **Permissions** tab\.
 
-1. On the **Permissions** tab, select the level of permissions to grant, and choose **Save**\.
+1. Under **People with permissions**, choose **Add**\. 
+
+   The **Address Book** appears\.
+
+1. Select the users with whom you want to share the folder, and then choose **OK**\. 
+
+   The **Permissions** dialog box appears\.
+
+1. Under **Default**, select a user\. You can only set permissions for one user at a time\.
+
+1. Under **Permission details**, open the **Profile** list and choose a profile\.
+
+   —or—
+
+   Under, **Read**, **Write**, **Deleted items**, and **Other**, choose the types and levels of access that you want to grant that user, and then choose **OK**\.
+
+   If you choose options that match an existing profile, the profile name appears in the **Profile** list\. For example, **Author**\. Otherwise, **Custom** appears in the list\.
+
+## Sharing non\-standard folders<a name="share-non-standard"></a>
+
+To share non\-standard folders, you change a permission setting in your parent email folder\.
+
+**To share non\-standard folders**
+
+1. If you run windows, in the Amazon WorkMail navigation pane, above your **Inbox** folder, right\-click **My Mail**, and then choose **Properties**\.
+
+   —or—
+
+   If you run macOS, right\-click the parent email address, also located above your **Inbox**, and then choose **Properties**\.
+
+   The **Properties** dialog box appears\.
+
+1. Choose the **Permissions** tab\.
+
+1. Select the checkbox next to **Folder visible**\.
+
+1. Choose **OK**\.
+
+1. Follow the steps in the previous section to share the desired folder\.
 
 ## Opening shared email folders<a name="shared_folder"></a>
 
@@ -46,9 +85,9 @@ You can open an email folder that has been shared with you\.
 
    The shared mail folders are now visible in the navigation pane\.
 **Note**  
-The shared folders are stored in your Amazon WorkMail web application profile\. The next time you log in to the Amazon WorkMail web application, the opened folders are still displayed\.  
-If you receive a message saying `You have insufficient privileges to open this folder`, contact the owner of the folder and ask them to grant you access\.  
-To change folder permissions, in the navigation pane, open the context \(right\-click\) the folder, choose **Properties**, **Permissions**\.
+Your Amazon WorkMail profile stores the shared folders\. When you log in to Amazon WorkMail, any opened folders will appear\.   
+If you receive a message saying `You have insufficient privileges to open this folder`, contact the folder's owner and ask for access\.  
+To change folder permissions, in the navigation pane, right\-click the folder, choose **Properties**, and then choose **Permissions**\.
 
 1. To close a shared folder, open the context \(right\-click\) menu for the shared folder, and choose **Close store**\.
 

@@ -3,18 +3,18 @@
 You can organize and manage your folders by creating new folders or copying, moving, renaming, or deleting existing ones\. You can also mark all the items in a folder as read or unread, empty your Deleted Items folder, and view the size of a folder to see how much storage space it takes up\.
 
 **Topics**
-+ [Creating new folders](#create_folder)
++ [Creating folders](#create_folder)
 + [Copying, moving, or renaming folders](#copy_move_rename_folder)
 + [Deleting folders](#delete_folder)
 + [Emptying the Deleted Items folder](#empty_deleted_items)
 + [Marking items as read or unread](#mark_items_read_unread)
 + [Viewing folder size](#view_folder_size)
 
-## Creating new folders<a name="create_folder"></a>
+## Creating folders<a name="create_folder"></a>
 
 Create folders to organize your email, contacts, and calendar items\.
 
-**To create a new folder**
+**To create a folder**
 
 1. In the Amazon WorkMail web application, on the shortcut bar, choose the mail icon\.
 

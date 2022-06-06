@@ -12,26 +12,26 @@ Amazon WorkMail does not support draft synchronization with Android or iOS mobil
 
 ## Connect your Android device<a name="connect_android_device"></a>
 
-Amazon WorkMail supports Exchange ActiveSync for integration with Android devices, so to connect your Android device to your Amazon WorkMail email account you need your Amazon WorkMail email address and password\.
+Amazon WorkMail supports Exchange ActiveSync for integration with Android devices\. To connect your Android device to your Amazon WorkMail email account, you need your Amazon WorkMail email address and password\.
 
 **To connect your Amazon WorkMail account to your Android device**
 
-1. On your Android device, choose **Apps**, **Email**, **Add Account**\.
+1. On your Android device, open the **Settings** page\.
 
-1. Depending on which options are available in your mail app, choose **Exchange** or choose **Microsoft Exchange ActiveSync**\. For more information, see [Set up email in Android email app](https://support.office.com/en-us/article/set-up-email-in-android-email-app-71147974-7aca-491b-978a-ab15e360434c)\.
+1. Choose **Accounts**, and then choose **Add accounts**\.
 
-1. In the dialog box, type your Amazon WorkMail email address, password, a description for the account, and then choose **Next**\.
-**Note**  
-If your account cannot be found, you are prompted to provide the name of your Exchange server, domain, user name, and password\. For more information, see [Manually connect your mobile device](#manually_connect_device)\.
+1. Choose **Exchange**, then enter your email address and choose **Next**\.
 
-1. In the Exchange confirmation dialog box, select the items to synchronize with your device, and then choose **Save**\.
+1. Enter your password\. After your device connects with the mail server, choose **Save**\.
+
+   
 
 ## Connect your iOS device<a name="connect_ios_device"></a>
 
-Amazon WorkMail supports Microsoft Exchange ActiveSync for integration with iOS devices\. To connect your iOS device to your Amazon WorkMail email account, you need only your Amazon WorkMail email address and password\.
+Amazon WorkMail supports Microsoft Exchange ActiveSync for integration with iOS devices\. To connect your iOS device to your Amazon WorkMail email account, you need your Amazon WorkMail email address and password\.
 
 **Note**  
-If your organization has enabled mobile device management, you may be required to set a password to connect your device\.
+If your organization has enabled mobile device management, you may be required to set a password when you connect your device\.
 
 **To connect your Amazon WorkMail account to your iOS device**
 
@@ -39,23 +39,21 @@ If your organization has enabled mobile device management, you may be required t
 
 1. Scroll down to **Mail**\.
 
-1. Choose **Accounts**, **Add Account**, **Microsoft Exchange**\.
+1. Choose **Accounts**, **Add Account**, and then choose **Microsoft Exchange**\.
 
 1. Do one of the following:
-   + In iOS 11 and later, enter your Amazon WorkMail email address and a description for the account\. Choose **Next**, **Sign in**, and enter the password associated with your email address\.
-   + In older versions, enter your Amazon WorkMail email address, password, a description for the account, and choose **Next**\.
+   + In iOS 11 and later, enter your Amazon WorkMail email address and a description for the account\. Choose **Next**, **Sign in**, and then enter the password associated with your email address\.
+   + In versions of iOS earlier than iOS 11, enter your Amazon WorkMail email address, password, a description for the account, and then choose **Next**\.
 **Note**  
-In iOS 11 and later, automatic configuration works if you use your organization's *alias*\.awsapps\.com complementary domain, or if you use a customer domain with AutoDiscover Phase 2 that is configured for the domain\. For more information, see [Use AutoDiscover to configure endpoints](https://docs.aws.amazon.com/workmail/latest/adminguide/autodiscover.html)\.
+In iOS 11 and later, automatic configuration works if you use your organization's *alias*\.awsapps\.com complementary domain, or if you use a custom domain with AutoDiscover Phase 2 that is configured for the domain\. For more information, see [Use AutoDiscover to configure endpoints](https://docs.aws.amazon.com/workmail/latest/adminguide/autodiscover.html)\.
 
 1. Do one of the following:
    + In the Exchange confirmation dialog box, select the items to synchronize with your device, and then choose **Save**\.
-   + If your account cannot be found, you are prompted to provide the name of your Exchange server, domain, user name, and password\. For more information, see [Manually connect your mobile device](#manually_connect_device)\.
-
-1. If, after attempting everything outlined above, you are still unable to access email on your iOS mobile device, you need to configure access using IMAP. [\[See the IMAP guide for more details\]](https://docs.aws.amazon.com/workmail/latest/userguide/using_IMAP.html).
+   + If your account can't be found, you are prompted to provide the name of your Exchange server, the server's domain, your user name, and your password\. For more information, see [Manually connect your mobile device](#manually_connect_device)\.
 
 ## Manually connect your mobile device<a name="manually_connect_device"></a>
 
-If your mobile device doesn't support AutoDiscover or if automatic configuration failed, you can manually configure the client by providing the following information\.
+If your mobile device doesn't support AutoDiscover, or if automatic configuration failed, you can manually configure the client by providing the following information\.
 
 
 | Required Information | Description | 

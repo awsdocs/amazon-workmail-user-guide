@@ -8,15 +8,15 @@ Amazon WorkMail has a web\-based client that you use to access your Amazon WorkM
 
 Your Amazon WorkMail system administrator provides you with your initial sign\-in credentials, which consist of a user name and a password\. To recover a lost or forgotten password, contact your administrator\.
 
-Your administrator also provides you with a unique Amazon WorkMail web client URL\. This URL contains a unique alias set up by your Amazon WorkMail site administrator\. The web client URL looks like this: `https://alias.awsapps.com/mail`\. Replace `alias` with the alias you received from your site administrator\.
+Your administrator also provides you with a unique Amazon WorkMail web client URL\. This URL contains a unique alias set up by your Amazon WorkMail site administrator\. The web client URL looks like this: https://*alias*\.awsapps\.com/mail\. Replace `alias` with the alias you received from your site administrator\.
 
 **To sign in to the Amazon WorkMail web client**
 
-1. In your web browser, enter the web client URL provided by your Amazon WorkMail administrator\. For example, `https://alias.awsapps.com/mail`\.
+1. In your web browser, enter the web client URL provided by your Amazon WorkMail administrator\. For example, https://*alias*\.awsapps\.com/mail\.
 
 1. For **Username**, enter the user name provided by your Amazon WorkMail administrator\.
 **Note**  
-Do not enter your full email address\. User names are case\-sensitive\.
+Don't enter your full email address\. User names are case\-sensitive\.
 
 1. For **Password**, enter your password\.
 
@@ -28,9 +28,9 @@ You can change many of the default settings for the Amazon WorkMail web client\.
 
 **To change the Amazon WorkMail web client settings**
 
-1. In the Amazon WorkMail web client, on the menu bar, choose **Settings** \(gear icon\)\.
+1. In the Amazon WorkMail web client, on the menu bar, choose **Settings** \(the gear icon\)\.
 
-1. In the navigation pane, select the **General** tab, **Email** tab, **Email Rules** tab, **Automatic response** tab, or **Calendar** tab to update the settings as appropriate\.
+1. In the navigation pane, select the **General** tab, **Email** tab, **Email Rules** tab, **Automatic response** tab, or **Calendar** tab to update setting in each catergory\.
 
 1. Press the **F5** key to refresh and activate the new settings\.
 
@@ -42,7 +42,7 @@ View mailbox usage and set your password, preferred language, and default addres
 
 ****Change password****  
 To change your password, choose **Change password**, and then follow the instructions on the screen\.  
-If Amazon WorkMail is integrated with your corporate directory, you might have to change your password using Microsoft Windows or corporate password management tools\.
+If Amazon WorkMail is integrated with your corporate directory, you might have to change your password using Microsoft Windows or corporate password management tools\. Contact your Amazon WorkMail administrator for details if you are unsure\.
 
 ****Language****  
 To change the language in which Amazon WorkMail is displayed, select a language from the list\. To change your date format and time format, select a format from the list\.
@@ -52,18 +52,18 @@ Shows the current amount of storage space used\. To reduce your mailbox size you
 
 ****Address Book****  
 To select a default address book, in **Select Default Folder**, select the address book to use\.  
-The default address book is loaded when choosing **Address book** from the main menu bar or when selecting the To, Cc, or Bcc field when composing a new email\.
+The default address book is loaded when choosing **Address book** from the main menu bar, or when selecting the **To**, **Cc**, or **Bcc** field when composing a new email\.
 
 ## Email settings<a name="email_tab"></a>
 
 Change email preview, formatting, font, and other options from the **Email** tab using the following settings\.
 
 ****Display preview pane****  
-You can choose to view a preview of items to the right of the content pane or below the content pane\. You can also choose to turn off the preview pane\.  
-Changing the view from the mail application using the **View** menu updates this **Display preview pane** setting\.
+You can choose to view a preview of items to either the right of the content pane or below the content pane\. You can also choose to turn off the preview pane\.  
+Changing the view from the mail application using the **View** menu also updates this **Display preview pane** setting\.
 
 ****Close email when responding****  
-When this setting is off, if you open an email message in a new tab, a new tab is opened next to the existing one when you reply to the email message\.
+When selected, the original email closes when you reply to it\. Deselect this setting to compose replies in a separate tab from the original message\.
 
 ****Format****  
 You can compose new mail messages as **Plain text** or **HTML**\.
@@ -82,13 +82,13 @@ Select whether Amazon WorkMail should always send a read receipt, never send a r
 
 ****Signatures****  
 You can create several signatures for different purposes\. For example, you can create a signature for business and one for private use, or create a long signature for new email messages and a short signature for replies and forwards\.  
-After you have created one or more signatures, you can \(optionally\) specify which one to use for new email messages and which one to use for replies and forwards\.
+\(Optional\) After you create one or more signatures, you can also specify which one to use for new email messages and which one to use for replies and forwards\.
 
 ## Email rules settings<a name="email_filters_tab"></a>
 
-Email rules can help you focus on important email messages and keep your inbox tidy\. Rules are stored on the server so that they can filter the mail before it arrives in your inbox\.
+Email rules can help you focus on important email messages and keep your inbox organized\. Rules are stored on the server so that they can filter the mail before it arrives in your inbox\.
 
-You can create as many rules as you want and with each rule, you can set various conditions to trigger the rule\. You can also set various follow\-up actions after the rule has been triggered\.
+You can create as many rules as you want\. With each rule, you can set different conditions to activate the rule\. You can also set various follow\-up actions to perform after the rule has been activated\.
 
 You can construct complex rules to deal with large email volumes or complex workflows\.
 
@@ -98,32 +98,32 @@ You can construct complex rules to deal with large email volumes or complex work
 
 1. In the **New email rule** dialog box, define the rule\.
 
-You can set various conditions and actions that Amazon WorkMail performs on every email message that meets the criteria you define\.
+You can set a variety of conditions and actions that Amazon WorkMail performs on every email message that meets your defined criteria\.
 
 ## Automatic response settings<a name="automatic_response_tab"></a>
 
-Mark yourself in or out of the office from the **Automatic Response** tab\. Specify the message that is sent automatically in reply to all incoming messages while you are away\.
+Mark yourself in or out of the office from the **Automatic Response** tab\. You can also specify the message that is sent automatically in reply to all incoming messages while you are away\.
 
-To prevent someone who is sending you several email messages per day from getting a reply on each message, automatic responses are only sent one time to any specific email address\. This also prevents a mail flood in case the person who sends you the email message also has automatic responses turned on\.
+To prevent someone who is sending you several email messages per day from getting a reply on each message, automatic responses are only sent once to any specific email address\. This also prevents a mail flood in case the person who sends you the email message also has automatic responses turned on\.
 
-When **Automatic response** is enabled, and you sign on to the Amazon WorkMail web client, a warning message is shown to remind you that the **Automatic response** is set\. The warming message prompts you to turn it off\.
+When **Automatic response** is enabled, and you sign on to the Amazon WorkMail web client, a warning message is shown to remind you that the **Automatic response** is set\. The warning message also prompts you to turn automatic responses off\.
 
 ## Calendar settings<a name="calendar_tab"></a>
 
 Set your calendar format, default reminder time, and other options using the following settings\.
 
 ****First day of the week****  
-If your week starts on another day than Monday, you can set it to any other day using this setting\. The calendar then always starts with this day\.
+If your week starts on a different day instead of Monday, you can change it to that day using this setting\. 
 
 ****First week of the year****  
-Specify how the calendar should begin the year\.
+Specify whether the calendar should count weeks from the first full week, or first partial week, of a new year\.
 
 ****Start of workday**, **End of workday****  
-Specify the part of the day that is marked as your workday\. The calendar shows this time period in a slightly different color so you can easily see when an appointment or meeting is scheduled outside office hours\. The default values for office hours are 8:30 \- 17:30 \(8:30 AM \- 5:30 PM\)\.
+Specify the part of the day that is marked as your workday\. The calendar shows this time period in a different color so that you can see when an appointment or meeting is scheduled outside office hours\. The default values for office hours are 8:30 \- 17:30 \(8:30 AM \- 5:30 PM\)\.
 
 ****Calendar resolution****  
-If your appointments frequently start at other times than each half or entire hour, or have a duration other than \(multiples of\) 30 minutes, then you can change this value to better fit your needs\.  
-Setting the value to less than 30 minutes makes the Amazon WorkMail web application zoom in on the calendar, so you scroll more when you are using a smaller screen\.
+If your appointments frequently start at times other than each half or whole hour, or have a duration other than multiples of 30 minutes, then change this value to better fit your needs\.  
+Setting the value to less than 30 minutes makes the Amazon WorkMail web application zoom in on the calendar\. This may cause you to scroll more when accessing your calendar on a smaller screen\.
 
 ****View multiple calendars****  
 Specify how multiple calendars should be displayed by default in the Calendar\. **Side\-by\-side** displays all calendars next to each other\. **Overlay** displays all calendars transparently on top of each other, where each calendar has its own color\.  
