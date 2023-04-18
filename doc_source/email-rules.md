@@ -59,7 +59,7 @@ The recipients see that you forwarded the messages, and the system copies forwar
 
 1. Repeat steps 1 through 3 in the previous procedure\.
 
-1. Under **Conditions**, open the **When the message** list and choose **is received from**\. Choose **Select sender\(s\)** and follow the steps in the previous procedure to select one or more senders\. You can also add actions as needed\.
+1. Under **Conditions**, open the **When the message** list and choose **is received from**\. Choose **Select sender\(s\)** and follow the steps in the previous procedure to select one or more senders\. You can also add conditions as needed\.
 
 1. Under **Actions**, choose **Redirect the message to**, then **Select recipient\(s\)** and follow the steps in the previous procedure to add one or more recipients\. You can also add actions as needed\.
 
