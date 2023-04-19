@@ -4,6 +4,7 @@ The following table describes important changes in each release of the *Amazon W
 
 | Change | Description | Date | 
 | --- |--- |--- |
+| [Support for Windows 11 Mail app](#DocumentHistory) | You can now setup Windows 11 Mail app with Amazon WorkMail\. For more information, see [Setting up the Windows 11 Mail app](connect_win11_mail.html) in the *Amazon WorkMail User Guide*\. | October 4, 2022 | 
 | [Support for subaddresses](#DocumentHistory) | Amazon WorkMail supports sending emails to subaddresses\. For more information, see [Sending email to a subaddress](email-messages.html#email-sub-address) in the *Amazon WorkMail User Guide*\. | August 17, 2020 | 
 | [Support for Outlook 2019](#DocumentHistory) | Amazon WorkMail supports Outlook 2019 for Windows and macOS\. For more information, see [Amazon WorkMail System Requirements](what_is.html#workmail_reqs) in the *Amazon WorkMail User Guide*\. | October 1, 2018 | 
 | [macOS Mojave support](#DocumentHistory) | Amazon WorkMail supports macOS Mojave\. For more information, see [Getting Started with the macOS Mail App](connect_mac_mail.html) in the *Amazon WorkMail User Guide*\. | September 24, 2018 | 

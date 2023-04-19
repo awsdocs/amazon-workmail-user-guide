@@ -11,7 +11,10 @@ If you share a calendar with a user that has **Read** permissions, that user can
 
 ## Sharing calendars with other users<a name="share_your_calendar"></a>
 
-You can give another user permission to view your calendar\.
+You can give another user permission to view your calendar within the WorkMail organization\. You cannot share calendars externally\.
+
+**Note**  
+You will need to grant *full details* read permissions to open a shared calendar\. *Free or busy* read permissions will only show the availability\.
 
 **To share your calendar with another user**
 

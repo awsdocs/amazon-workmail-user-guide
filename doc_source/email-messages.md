@@ -40,6 +40,9 @@ You can also choose the plus sign \(\+\) on the tab bar\.
 
 ## Sending email from an alias<a name="send_alias"></a>
 
+**Note**  
+To view the From field on the WebMail client, select the From button above the subject\.
+
 You can send and receive email using an alias that your administrator configures for you\. Recipients outside of your organization then see the sender as your alias address instead of your primary address\. For information about configuring aliases, see [Edit User Email Addresses](https://docs.aws.amazon.com/workmail/latest/adminguide/edit_user_email_addresses.html)\.
 
 **Note**  
@@ -60,6 +63,9 @@ To include a display name, use the SMTP standard format `Your Name <youralias@ex
 1. When you're ready to send the email, choose **Send**\.
 
 ## Sending email to a subaddress<a name="email-sub-address"></a>
+
+**Note**  
+The email address \(anything before the @\) cannot exceed 64 characters\.
 
 You can add a **\+** tag to your Amazon WorkMail email address to help filter your incoming email messages\. This is also known as subaddressing\.
 

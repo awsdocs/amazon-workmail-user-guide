@@ -12,6 +12,7 @@ If you are using the web application, Microsoft Outlook, an Android or iOS mobil
 |  **Protocol**  |  IMAPS  | 
 |  **Port**  |  993  | 
 |  **Secure connection**  |  Select **Required** and **SSL**  | 
+|  **Type of authentication**  |  PLAIN  | 
 |  **Incoming username**  |  Email address associated with your Amazon WorkMail account  | 
 |  **Incoming password**  |  Your password  | 
 | **Incoming server** |  The endpoint matching the AWS Region where your mailbox is located: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/workmail/latest/userguide/using_IMAP.html)  If you don't know the AWS Region where your mailbox is located, contact your system administrator\.   | 

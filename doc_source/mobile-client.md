@@ -9,6 +9,7 @@ Amazon WorkMail does not support draft synchronization with Android or iOS mobil
 + [Connect your Android device](#connect_android_device)
 + [Connect your iOS device](#connect_ios_device)
 + [Manually connect your mobile device](#manually_connect_device)
++ [Setting up Microsoft Outlook for Android and iOS](#setting_up_microsoft_outlook)
 
 ## Connect your Android device<a name="connect_android_device"></a>
 
@@ -64,3 +65,23 @@ If your mobile device doesn't support AutoDiscover, or if automatic configuratio
 |  **User name** or **Domain/User name**  |  Email address associated with your Amazon WorkMail account  | 
 |  **Password**  |  Your password  | 
 |  **Server**  |  The endpoint matching the AWS Region where your mailbox is located: [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/workmail/latest/userguide/mobile-client.html)  If you don't know the AWS Region where your mailbox is located, contact your system administrator\.   | 
+
+## Setting up Microsoft Outlook for Android and iOS<a name="setting_up_microsoft_outlook"></a>
+
+You can use your Amazon WorkMail account to setup and use Microsoft Outlook on your Android or iOS devices\.
+
+**To use your Amazon WorkMail to configure Microsoft Outlook**
+
+1. Open the Microsoft Outlook app on your device\.
+
+1. Choose **Accounts**\. Enter your Amazon WorkMail address and choose **Add Account**\.
+**Note**  
+If you are asked to select a service or protocol, choose **Exchange**\.
+
+1. On the configuration screen, do the following:
+   + **Password** –Enter your Amazon WorkMailaccount password\.
+   + **Server** – Enter the Exchange ActiveSync URL for your AWS Region\. For a list of available Exchange ActiveSync URLs, see [Amazon WorkMail endpoints and quotas](https://docs.aws.amazon.com/general/latest/gr/workmail.html)\.
+   + **Domain** – Enter your Amazon WorkMail address' domain\.
+   + **Username** – Enter your Amazon WorkMail address
+
+1. Choose **Sign\-in**\.
